@@ -1,0 +1,627 @@
+Name,NetWorth,Country,Source,Rank,Age,Industry
+Zhong Shanshan,$68.9 B,China,"beverages, pharmaceuticals",13,66,Food & Beverage
+Ma Huateng,$65.8 B,China,internet media,15,49,Technology
+Colin Zheng Huang,$55.3 B,China,e-commerce,21,41,Technology
+Jack Ma,$48.4 B,China,e-commerce,26,56,Technology
+Wang Wei,$39 B,China,package delivery,35,50,Service
+He Xiangjian,$37.7 B,China,home appliances,37,78,Manufacturing
+Zhang Yiming,$35.6 B,China,TikTok,39,37,Technology
+Qin Yinglin & family,$33.5 B,China,pig breeding,44,55,Food & Beverage
+William Lei Ding,$33 B,China,online games,45,49,Technology
+Yang Huiyan & family,$29.6 B,China,real estate,50,39,Real Estate
+Hui Ka Yan,$27.7 B,China,real estate,53,62,Real Estate
+Pang Kang,$26.4 B,China,soy sauce,57,65,Food & Beverage
+Wang Xing,$26.1 B,China,e-commerce,60,42,Technology
+Jiang Rensheng & family,$24.4 B,China,vaccines,69,67,Healthcare
+Zhang Zhidong,$23.4 B,China,internet media,73,49,Technology
+Lei Jun,$23 B,China,smartphones,75,51,Technology
+Richard Qiangdong Liu,$22.4 B,China,e-commerce,77,47,Technology
+Li Shufu,$19.7 B,China,automobiles,89,57,Automotive
+Zhong Huijuan,$19.7 B,China,pharmaceuticals,89,60,Healthcare
+Sun Piaoyang,$18.9 B,China,pharmaceuticals,96,62,Healthcare
+Wu Yajun,$18.3 B,China,real estate,100,57,Real Estate
+Fan Hongwei & family,$18.2 B,China,petrochemicals,102,54,Energy
+Chen Bang,$17.9 B,China,hospitals,105,55,Healthcare
+Su Hua,$17.8 B,China,video streaming,107,39,Media & Entertainment
+Wang Chuanfu,$16.3 B,China,"batteries, automobiles",118,55,Automotive
+Chen Zhiping,$15.9 B,China,e-cigarettes,121,45,Manufacturing
+Wei Jianjun & family,$15.5 B,China,automobiles,128,57,Automotive
+Zuo Hui,$15.5 B,China,real estate services,128,50,Real Estate
+Wang Jianlin,$14.8 B,China,real estate,137,66,Real Estate
+Robin Li,$14.7 B,China,internet search,138,52,Technology
+Cheng Yixiao,$14.1 B,China,video streaming app,148,37,Media & Entertainment
+Liang Wengen,$14.1 B,China,construction equipment,148,64,Manufacturing
+Zhang Bangxin,$13.3 B,China,education,158,41,Service
+Wang Wenyin,$13.2 B,China,"mining, copper products",161,53,Metals & Mining
+Wang Liping & family,$13.1 B,China,hydraulic machinery,163,55,Manufacturing
+Huang Shilin,$12.9 B,China,batteries,166,54,Energy
+Dang Yanbao,$12.7 B,China,coal,169,48,Metals & Mining
+Lu Zhongfang,$12.5 B,China,education,173,78,Automotive
+Ma Jianrong & family,$12.5 B,China,"textiles, apparel",173,57,Fashion & Retail
+Zhang Tao,$12.5 B,China,e-commerce,173,48,Fashion & Retail
+Yu Renrong,$12.3 B,China,semiconductors,181,55,Manufacturing
+Liu Yonghao & family,$12.1 B,China,agribusiness,182,69,Service
+Cen Junda,$11.6 B,China,pharmaceuticals,189,56,Healthcare
+Wang Laisheng,$10.8 B,China,electronics components,205,56,Technology
+Wang Laichun,$10.7 B,China,electronics components,208,53,Technology
+Chen Jianhua,$10.6 B,China,chemicals,210,50,Manufacturing
+Leng Youbin,$10.6 B,China,infant formula,210,52,Food & Beverage
+Li Zhenguo & family,$10.5 B,China,solar wafers and modules,213,53,Manufacturing
+Cai Kui,$10.4 B,China,real estate,216,58,Real Estate
+Qi Shi & family,$10.4 B,China,financial information,216,51,Technology
+Liu Hanyuan,$10.3 B,China,agribusiness,219,57,Food & Beverage
+Larry Xiangdong Chen,$10.2 B,China,education,223,49,Service
+Yao Liangsong,$9.6 B,China,furniture,241,56,Manufacturing
+Ding Shizhong & family,$9.4 B,China,sports apparel,247,50,Fashion & Retail
+Ding Shijia,$9.3 B,China,sports apparel,251,57,Fashion & Retail
+Lu Xiangyang,$9.1 B,China,"automobiles, batteries",256,58,Automotive
+Tse Ping,$8.9 B,China,pharmaceuticals,264,69,Healthcare
+Zong Qinghou,$8.8 B,China,beverages,269,75,Food & Beverage
+Cheng Xue,$8.7 B,China,soy sauce,274,51,Food & Beverage
+Liu Jincheng & family,$8.7 B,China,lithium batteries,274,56,Technology
+Xu Shihui,$8.7 B,China,"snacks, beverages",274,63,Food & Beverage
+Zheng Shuliang & family,$8.6 B,China,aluminum products,288,75,Metals & Mining
+Kei Hoi Pang,$7.8 B,China,real estate,316,55,Real Estate
+Zhao Yan,$7.6 B,China,biotech,327,54,Diversified
+Pei Zhenhua,$7.5 B,China,batteries,334,62,Energy
+Zhang Jindong,$7.4 B,China,appliance retailer,339,58,Fashion & Retail
+Lai Meisong,$7.3 B,China,package delivery,344,50,Logistics
+Wang Zhenhua,$7.2 B,China,real estate,352,59,Real Estate
+Li Hua,$7.1 B,China,financial services,358,43,Finance & Investments
+Guo Guangchang,$6.9 B,China,conglomerate,380,54,Diversified
+Shi Yonghong & family,$6.8 B,China,restaurants,384,52,Food & Beverage
+Li Haiyan,$6.7 B,China,restaurants,391,N/A,Food & Beverage
+Wang Wenjing,$6.6 B,China,business software,400,56,Technology
+Zeng Fangqin,$6.6 B,China,smartphone components,400,55,Technology
+Chu Mang Yee & family,$6.5 B,China,real estate,404,61,Real Estate
+Liu Yongxing,$6.5 B,China,diversified,404,72,Service
+Wang Yusuo & family,$6.4 B,China,natural gas distribution,418,57,Energy
+Shi Yuzhu,$6.3 B,China,"online games, investments",421,58,Diversified
+Wang Junlin,$6.3 B,China,liquor,421,58,Food & Beverage
+Wang Ning & family,$6.3 B,China,toys,421,34,Media & Entertainment
+You Xiaoping,$6.3 B,China,"chemicals, spandex",421,63,Manufacturing
+Jiang Bin,$6.2 B,China,acoustic components,432,54,Technology
+Jason Jiang,$6.2 B,China,advertising,432,48,Media & Entertainment
+Huang Li,$6.1 B,China,imaging systems,440,57,Technology
+Qian Dongqi & family,$6.1 B,China,household appliances,440,63,Manufacturing
+Chen Fashu,$5.9 B,China,investments,472,60,Finance & Investments
+Chen Rui,$5.9 B,China,online entertainment,472,43,Media & Entertainment
+Lin Jianhua & family,$5.9 B,China,solar panel components,472,58,Manufacturing
+Chan Laiwa & family,$5.8 B,China,real estate,476,80,Real Estate
+Li Chunan,$5.8 B,China,renewable energy,476,52,Manufacturing
+William Li,$5.8 B,China,electric vehicles,476,46,Automotive
+Jian Jun,$5.6 B,China,biomedical products,496,57,Healthcare
+Dong Wei,$5.5 B,China,pharmaceuticals,502,50,Healthcare
+He Xiaopeng,$5.5 B,China,electric vehicles,502,43,Automotive
+Mu Rongjun,$5.5 B,China,e-commerce,502,41,Technology
+An Kang,$5.4 B,China,pharmaceuticals,520,72,Healthcare
+Cao Renxian,$5.3 B,China,photovoltaic equipment,529,52,Energy
+Shen Guojun,$5.3 B,China,retail,529,58,Fashion & Retail
+Yao Zhenhua & family,$5.3 B,China,conglomerate,529,51,Diversified
+Yu Yong,$5.3 B,China,mining,529,60,Finance & Investments
+Ruan Hongliang & family,$5.2 B,China,glass,539,60,Manufacturing
+Neil Shen,$5.2 B,China,venture capital,539,53,Finance & Investments
+Wu Guanjiang & family,$5.1 B,China,pharmaceuticals,550,52,Healthcare
+Lin Xiucheng & family,$5 B,China,electronics,561,65,Technology
+Kate Wang,$5 B,China,e-cigarettes,561,39,Manufacturing
+Chen Dongsheng,$4.9 B,China,insurance,574,63,Finance & Investments
+Lin Li,$4.9 B,China,investments,574,57,Finance & Investments
+Zhang Fan,$4.9 B,China,touch screens,574,55,Technology
+Frank Wang,$4.8 B,China,drones,589,40,Technology
+Wang Xicheng & family,$4.8 B,China,tires,589,72,Manufacturing
+Wang Zhendong,$4.8 B,China,education,589,44,Service
+Hong Jie,$4.7 B,China,paint,608,53,Manufacturing
+Wong Luen Hei,$4.7 B,China,building materials,608,59,Manufacturing
+Zhou Bajin,$4.7 B,China,auto parts,608,85,Manufacturing
+Dong Fan,$4.6 B,China,medical devices,622,51,Healthcare
+Li Weiguo,$4.6 B,China,construction materials,622,56,Manufacturing
+Hu Baifan,$4.5 B,China,pharmaceuticals,638,58,Healthcare
+Miao Hangen,$4.5 B,China,"textiles, petrochemicals",638,56,Diversified
+Zhu Baoguo & family,$4.5 B,China,pharmaceuticals,638,58,Healthcare
+Michael Minhong Yu,$4.4 B,China,education,655,59,Service
+Zhang Daocai,$4.4 B,China,valves,655,71,Diversified
+Lee Yin Yee,$4.3 B,China,glass,665,69,Manufacturing
+Fang Wei,$4.2 B,China,steel,680,47,Manufacturing
+Fu Liquan & family,$4.2 B,China,surveillance equipment,680,53,Technology
+Li Li,$4.2 B,China,healthcare,680,55,Healthcare
+Liu Fangyi,$4.2 B,China,medical equipment,680,51,Healthcare
+Luo Liguo & family,$4.2 B,China,chemicals,680,65,Manufacturing
+Pan Laican,$4.2 B,China,soy sauce,680,N/A,Food & Beverage
+Wang Yanqing & family,$4.2 B,China,electrical equipment,680,54,Manufacturing
+Xue Hua,$4.2 B,China,agribusiness,680,51,Manufacturing
+Steven Meng Yang & family,$4.2 B,China,electronics,680,38,Technology
+Ji Qi,$4.1 B,China,"hotels, motels",705,54,Real Estate
+Xu Jingren,$4.1 B,China,pharmaceuticals,705,76,Healthcare
+Du Jiangtao & family,$4 B,China,chemicals,727,51,Manufacturing
+Li Xiang,$4 B,China,electric vehicles,727,39,Automotive
+Melissa Ma,$4 B,China,internet search,727,51,Technology
+Qiu Guanghe & family,$4 B,China,fashion retail,727,69,Fashion & Retail
+Ye Xiaoping,$4 B,China,pharmaceuticals,727,58,Healthcare
+Zhou Hongyi,$4 B,China,security software,727,50,Technology
+Che Jianxing,$3.9 B,China,furniture retailing,752,54,Fashion & Retail
+Du Weimin,$3.9 B,China,vaccines,752,57,Healthcare
+Jin Baofang,$3.9 B,China,solar energy,752,68,Energy
+Wang Linpeng,$3.9 B,China,furniture retailing,752,52,Construction & Engineering
+Wu Zhigang & family,$3.9 B,China,bakery chain,752,86,Food & Beverage
+Yi Zheng,$3.9 B,China,software,752,50,Technology
+Zhang Wenzhong,$3.9 B,China,supermarkets,752,59,Fashion & Retail
+Feng Hailiang,$3.8 B,China,"copper, education",775,60,Metals & Mining
+Gao Dekang & family,$3.8 B,China,apparel,775,69,Fashion & Retail
+Lai Jianping,$3.8 B,China,soy sauce,775,N/A,Food & Beverage
+Qiu Jianping & family,$3.8 B,China,hand tools,775,59,Manufacturing
+Song Fei,$3.8 B,China,machinery,775,54,Manufacturing
+Zhang Jin,$3.8 B,China,commodities,775,49,Diversified
+Zhu Gongshan,$3.8 B,China,solar panel materials,775,63,Manufacturing
+Kong Jian Min,$3.7 B,China,real estate,807,53,Real Estate
+Li Liangbin,$3.7 B,China,lithium,807,53,Manufacturing
+Li Yongxin & family,$3.7 B,China,education,807,45,Service
+Xu Shugen,$3.7 B,China,"construction, mining machinery",807,55,Manufacturing
+Hu Kaijun,$3.6 B,China,pharmaceuticals,831,59,Healthcare
+Li Hongxin & family,$3.6 B,China,paper & related products,831,68,Manufacturing
+Yang Shaopeng,$3.6 B,China,shipping,831,63,Logistics
+Zhang Hongwei,$3.6 B,China,"oil, banking",831,66,Diversified
+Li Guoqiang,$3.5 B,China,auto dealerships,859,57,Automotive
+Liu Xiaodong,$3.5 B,China,flavorings,859,53,Manufacturing
+Wu Shaoxun,$3.5 B,China,wine,859,65,Food & Beverage
+Ye Guofu,$3.5 B,China,retail,859,43,Fashion & Retail
+Zhou Jianping,$3.5 B,China,fashion retail,859,60,Fashion & Retail
+Deng Wen,$3.4 B,China,flavorings,891,53,Food & Beverage
+Benjamin Zhengmin Pan & family,$3.4 B,China,electronics,891,51,Technology
+Eric Ya Shen,$3.4 B,China,online apparel retail,891,50,Technology
+Xu Yi,$3.4 B,China,Internet,891,31,Media & Entertainment
+Dong Jinggui,$3.3 B,China,electric scooters,925,51,Automotive
+Qi Xiangdong,$3.3 B,China,software,925,50,Technology
+Wang Wenxue,$3.3 B,China,real estate,925,53,Real Estate
+Zhang Xin & Pan Shiyi,$3.3 B,China,real estate,925,55,Real Estate
+He Zhaoxi,$3.2 B,China,software,956,47,Technology
+Ke Zunhong & family,$3.2 B,China,pharmaceuticals,956,66,Healthcare
+Zhang Li,$3.2 B,China,real estate,956,68,Real Estate
+Chi Yufeng,$3.1 B,China,software,986,50,Technology
+Gu Yuhua & family,$3.1 B,China,furniture,986,71,Manufacturing
+Jin Lei,$3.1 B,China,pharmaceuticals,986,55,Healthcare
+Li Gaiteng,$3.1 B,China,hair dryers,986,48,Manufacturing
+Li Zhongchu,$3.1 B,China,software,986,57,Technology
+Nie Tengyun & family,$3.1 B,China,logistics,986,45,Service
+Gan Zhongru,$3 B,China,pharmaceuticals,1008,72,Healthcare
+Huang Jinfeng,$3 B,China,e-commerce,1008,38,Fashion & Retail
+Huang Rulun,$3 B,China,real estate,1008,69,Real Estate
+Song Zuowen,$3 B,China,"aluminum, diversified",1008,74,Diversified
+Tian Ming,$3 B,China,measuring instruments,1008,67,Technology
+Wang Changtian,$3 B,China,"TV, movie production",1008,55,Media & Entertainment
+Xia Zuoquan,$3 B,China,automobiles,1008,59,Automotive
+Yin Xin,$3 B,China,video streaming app,1008,36,Media & Entertainment
+Zhang Lei,$3 B,China,investments,1008,48,Finance & Investments
+Zhu Xingming,$3 B,China,electrical equipment,1008,54,Manufacturing
+Cao Ji,$2.9 B,China,manufacturing,1064,69,Manufacturing
+Chen Kaixuan,$2.9 B,China,household chemicals,1064,62,Manufacturing
+Fu Guangming & family,$2.9 B,China,poultry,1064,67,Food & Beverage
+Hu Yangzhong,$2.9 B,China,technology,1064,56,Technology
+Huang Qiaoling,$2.9 B,China,amusement parks,1064,62,Media & Entertainment
+Huang Zhenda & family,$2.9 B,China,construction,1064,73,Construction & Engineering
+Liang Yunchao,$2.9 B,China,nutritional supplements,1064,52,Food & Beverage
+Lucy Peng,$2.9 B,China,e-commerce,1064,48,Technology
+Xu Yingzhuo,$2.9 B,China,agribusiness,1064,53,Food & Beverage
+Ye Fan & family,$2.9 B,China,auto dealerships,1064,50,Automotive
+Bai Baokun,$2.8 B,China,hardware,1111,51,Manufacturing
+Chen Hua,$2.8 B,China,real estate,1111,55,Real Estate
+Chen Huwen,$2.8 B,China,stationery,1111,50,Manufacturing
+Chen Huxiong,$2.8 B,China,stationery,1111,50,Manufacturing
+Chen Tianshi,$2.8 B,China,semiconductors,1111,36,Technology
+Deng Weiming & family,$2.8 B,China,materials,1111,52,Manufacturing
+Li Liufa & family,$2.8 B,China,"steel, diversified",1111,63,Diversified
+Li Xiaohua & family,$2.8 B,China,packaging,1111,59,Manufacturing
+Liu Ming Hui,$2.8 B,China,natural gas distribution,1111,58,Energy
+Wong Kwong Yu & family,$2.8 B,China,retail,1111,51,Fashion & Retail
+Xiong Wu,$2.8 B,China,software,1111,45,Technology
+Xu Jinfu,$2.8 B,China,chemicals,1111,57,Manufacturing
+Xu Zhihan,$2.8 B,China,electronics,1111,48,Technology
+Zhong Ruonong & family,$2.8 B,China,electronics,1111,58,Manufacturing
+Lu Zhiqiang,$2.7 B,China,real estate,1174,68,Real Estate
+Nan Cunhui,$2.7 B,China,power equipment,1174,57,Manufacturing
+Ou Zongrong & family,$2.7 B,China,real estate,1174,57,Real Estate
+Su Suyu & family,$2.7 B,China,"utilities, real estate",1174,72,Real Estate
+Sun Shoukuan,$2.7 B,China,"metals, coal",1174,71,Manufacturing
+Tao Yuequn,$2.7 B,China,Contact Lens,1174,61,Fashion & Retail
+Tong Jinquan,$2.7 B,China,real estate,1174,66,Real Estate
+Zhang Wanzhen,$2.7 B,China,electronics components,1174,71,Manufacturing
+Cai Dongchen,$2.6 B,China,pharmaceuticals,1205,68,Healthcare
+Lai Shixian,$2.6 B,China,sports apparel,1205,46,Fashion & Retail
+Ren Jianhua,$2.6 B,China,kitchen appliances,1205,64,Manufacturing
+Shum Chiu Hung & family,$2.6 B,China,real estate,1205,51,Real Estate
+Wu Guangming,$2.6 B,China,medical equipment,1205,59,Healthcare
+Yang Yuanxi,$2.6 B,China,video streaming app,1205,N/A,Media & Entertainment
+Yu Qibing & family,$2.6 B,China,glass,1205,55,Manufacturing
+Zhaojiang Zhu,$2.6 B,China,Smartphones,1205,47,Manufacturing
+Chang Jing,$2.5 B,China,technology,1249,38,Technology
+Hu Kun,$2.5 B,China,medical equipment,1249,51,Healthcare
+Liang Feng,$2.5 B,China,manufacturing,1249,52,Manufacturing
+Ruan Shuilong & family,$2.5 B,China,chemicals,1249,85,Manufacturing
+Sun Mengquan & family,$2.5 B,China,edible oil,1249,71,Food & Beverage
+Wang Wenmo,$2.5 B,China,sports apparel,1249,64,Fashion & Retail
+Xie Juhua & family,$2.5 B,China,pharmaceuticals,1249,70,Healthcare
+Xu Shaochun,$2.5 B,China,software,1249,58,Technology
+Chen Jinxia,$2.4 B,China,investments,1299,53,Finance & Investments
+Chen Xiao Ying,$2.4 B,China,health information,1299,57,Healthcare
+Chen Xueli,$2.4 B,China,pharmaceuticals,1299,69,Healthcare
+Dai Lizhong,$2.4 B,China,medical testing,1299,52,Healthcare
+Fu Mingkang & family,$2.4 B,China,manufacturing,1299,58,Manufacturing
+Gao Jifan & family,$2.4 B,China,solar equipment,1299,56,Energy
+Geng Jianming,$2.4 B,China,real estate,1299,58,Real Estate
+Luo Yangyong & family,$2.4 B,China,mining,1299,45,Metals & Mining
+Shen Wenrong,$2.4 B,China,steel production,1299,75,Metals & Mining
+Tang Jinkui & family,$2.4 B,China,"textiles, petrochemicals",1299,65,Manufacturing
+Xiong Shaoming,$2.4 B,China,e-cigarettes,1299,50,Manufacturing
+Yang Jianliang & family,$2.4 B,China,machinery,1299,51,Manufacturing
+Zhang Zhixiang,$2.4 B,China,steel,1299,54,Metals & Mining
+Zhao Hongfei,$2.4 B,China,software,1299,46,Technology
+Cao Longxiang & family,$2.3 B,China,pharmaceuticals,1362,63,Healthcare
+Chen Zhisong,$2.3 B,China,communication equipment,1362,55,Technology
+Deng Yingzhong,$2.3 B,China,paper,1362,70,Manufacturing
+Guan Yihong,$2.3 B,China,restaurant,1362,51,Food & Beverage
+Hua Xuande & family,$2.3 B,China,pharmaceuticals,1362,77,Healthcare
+David Jiang,$2.3 B,China,e-cigarettes,1362,42,Manufacturing
+Jiang Weiping & family,$2.3 B,China,chemicals,1362,66,Manufacturing
+Lai Jianfa,$2.3 B,China,express delivery,1362,51,Logistics
+Lam Kong,$2.3 B,China,pharmaceuticals,1362,56,Healthcare
+David Xueling Li,$2.3 B,China,live streaming service,1362,48,Technology
+Li Xuhui,$2.3 B,China,soy sauce,1362,52,Food & Beverage
+Liang Zhaoxian,$2.3 B,China,appliances,1362,56,Manufacturing
+Sun Huaiqing & family,$2.3 B,China,cosmetics,1362,51,Fashion & Retail
+Sze Man Bok,$2.3 B,China,hygiene products,1362,71,Manufacturing
+Wu Zhongyi,$2.3 B,China,electronics,1362,47,Technology
+Xu Chuanhua & family,$2.3 B,China,"chemicals, logistics",1362,86,Manufacturing
+Yang Weidong & family,$2.3 B,China,chemicals,1362,52,Manufacturing
+Zhang Xuezheng,$2.3 B,China,telecom,1362,45,Technology
+Zhang Yin,$2.3 B,China,paper manufacturing,1362,64,Manufacturing
+Gu Wei,$2.2 B,China,consumer electronics,1444,56,Manufacturing
+Guo Jiangang,$2.2 B,China,household appliances,1444,54,Manufacturing
+Huang Guanlin,$2.2 B,China,"textiles, apparel",1444,56,Fashion & Retail
+Huang Wei,$2.2 B,China,real estate,1444,61,Real Estate
+Hui Lin Chit,$2.2 B,China,hygiene products,1444,67,Manufacturing
+Li Guoqing,$2.2 B,China,Petro Fibre,1444,51,Manufacturing
+Li Shuirong,$2.2 B,China,petrochemicals,1444,64,Manufacturing
+Li Yongqing,$2.2 B,China,Petro Firbe,1444,56,Manufacturing
+Liang Xinjun,$2.2 B,China,conglomerate,1444,53,Diversified
+Lin Fanlian,$2.2 B,China,"energy, real estate",1444,59,Energy
+Mao Zhongwu,$2.2 B,China,manufacturing,1444,58,Manufacturing
+Mi Enhua,$2.2 B,China,retail,1444,63,Fashion & Retail
+Qian Ying,$2.2 B,China,pig breeding,1444,55,Food & Beverage
+Wu Lanlan & family,$2.2 B,China,packaging,1444,47,Manufacturing
+Wu Yiling,$2.2 B,China,pharmaceuticals,1444,71,Healthcare
+Xiang Wenbo,$2.2 B,China,manufacturing,1444,58,Manufacturing
+Xie Liangzhi & family,$2.2 B,China,biotech,1444,55,Healthcare
+Xu Yuejuan,$2.2 B,China,Petro Fibre,1444,59,Manufacturing
+Yang Jian,$2.2 B,China,real estate,1444,49,Real Estate
+Zhang Jingzhang & family,$2.2 B,China,precision machinery,1444,85,Manufacturing
+Diao Zhizhong,$2.1 B,China,software,1517,57,Technology
+Gong Yingying,$2.1 B,China,health IT,1517,36,Healthcare
+Arthur Xiaobo Hong,$2.1 B,China,e-commerce,1517,49,Fashion & Retail
+Hong Feng,$2.1 B,China,smartphones,1517,44,Technology
+Jiang Yehua & family,$2.1 B,China,real estate,1517,58,Real Estate
+Li Wanqiang,$2.1 B,China,smartphones,1517,43,Technology
+Li Weiwei,$2.1 B,China,online games,1517,44,Technology
+Lin Yinsun,$2.1 B,China,agribusiness,1517,57,Food & Beverage
+Liu Zhongtian & family,$2.1 B,China,aluminum products,1517,57,Manufacturing
+Wang Minwen,$2.1 B,China,semiconductor,1517,57,Technology
+Weng Xianding,$2.1 B,China,medical devices,1517,59,Healthcare
+Yuan Fugen & family,$2.1 B,China,metal processing,1517,70,Manufacturing
+Zhao Fenggang,$2.1 B,China,batteries,1517,55,Energy
+Zhou Zongwen & family,$2.1 B,China,jewelry,1517,64,Fashion & Retail
+Dai Wenjun,$2 B,China,food,1580,52,Food & Beverage
+Dou Zhenggang,$2 B,China,"energy, chemicals",1580,67,Diversified
+Fang Hongbo,$2 B,China,home appliances,1580,54,Manufacturing
+Hou Juncheng,$2 B,China,cosmetics,1580,56,Healthcare
+Ke Yunfeng & family,$2 B,China,retailing,1580,54,Healthcare
+Li Yong,$2 B,China,education,1580,47,Media & Entertainment
+Liu Yachao,$2 B,China,education,1580,40,Service
+Miao Yongjun,$2 B,China,clinical diagnostics,1580,53,Healthcare
+Shen Xiqiang & family,$2 B,China,chemical,1580,73,Energy
+Tang Xiuguo,$2 B,China,manufacturing,1580,57,Manufacturing
+Wang Chaobin,$2 B,China,real estate,1580,65,Real Estate
+Wang Zhenghua,$2 B,China,budget airline,1580,76,Service
+Wu Junbao,$2 B,China,education,1580,55,Service
+Wu Kai,$2 B,China,batteries,1580,53,Energy
+Xue Xiangdong & family,$2 B,China,software,1580,62,Technology
+Yan Zhi,$2 B,China,real estate,1580,48,Real Estate
+Zhang Xuansong,$2 B,China,supermarkets,1580,49,Fashion & Retail
+Chen Shiliang,$1.9 B,China,polyester,1664,57,Manufacturing
+Gao Yi & family,$1.9 B,China,pharmaceuticals,1664,52,Healthcare
+Gao Yu,$1.9 B,China,information technology,1664,51,Technology
+Jiang Zhaobai,$1.9 B,China,real estate,1664,57,Real Estate
+Ke Jinlong & family,$1.9 B,China,retailing,1664,51,Healthcare
+Ke Kangbao & family,$1.9 B,China,retailing,1664,58,Healthcare
+Li Guangyu,$1.9 B,China,education,1664,57,Service
+Li Hongjing,$1.9 B,China,auto parts,1664,53,Automotive
+Li Jiaquan,$1.9 B,China,chemicals,1664,57,Manufacturing
+Li Min,$1.9 B,China,semiconductor,1664,55,Technology
+Peng Yongdong,$1.9 B,China,real estate,1664,41,Real Estate
+Tan Lili,$1.9 B,China,feed,1664,N/A,Food & Beverage
+Wan Long,$1.9 B,China,food,1664,80,Food & Beverage
+Wang Jian,$1.9 B,China,healthcare services,1664,67,Technology
+Wang Jilei,$1.9 B,China,logistics,1664,56,Logistics
+Wang Junshi & family,$1.9 B,China,solar energy,1664,72,Manufacturing
+Yang Xuegang,$1.9 B,China,coking,1664,56,Manufacturing
+Yu Huijiao,$1.9 B,China,package delivery,1664,55,Logistics
+Zeng Kaitian,$1.9 B,China,online games,1664,46,Technology
+Changpeng Zhao,$1.9 B,China,cryptocurrency exchange,1664,45,Finance & Investments
+Zhu Xingliang,$1.9 B,China,construction,1664,61,Construction & Engineering
+Zhu Yiwen & family,$1.9 B,China,healthcare,1664,N/A,Healthcare
+Cai Mingtong,$1.8 B,China,electronic components,1750,69,Technology
+He Xinming family,$1.8 B,China,ceramic,1750,65,Manufacturing
+Jin Huiming,$1.8 B,China,real estate,1750,68,Real Estate
+Lei Jufang,$1.8 B,China,pharmaceuticals,1750,68,Healthcare
+Li Rucheng,$1.8 B,China,apparel,1750,69,Fashion & Retail
+Lv Dalong,$1.8 B,China,telecom services,1750,59,Telecom
+Miao Shouliang,$1.8 B,China,real estate,1750,66,Real Estate
+Pu Zhongjie & family,$1.8 B,China,medical equipment,1750,58,Healthcare
+Qin Long,$1.8 B,China,tire,1750,55,Manufacturing
+Shang Xiaobo & family,$1.8 B,China,Manufacturing,1750,47,Manufacturing
+Shi Yifeng,$1.8 B,China,medical cosmetics,1750,47,Healthcare
+Sun Guangxin,$1.8 B,China,diversified,1750,58,Diversified
+Wang Lizhan,$1.8 B,China,sauce,1750,N/A,Food & Beverage
+Wei Lidong & family,$1.8 B,China,software,1750,45,Technology
+Wu Bo,$1.8 B,China,machinery,1750,66,Manufacturing
+Wu Xushun & family,$1.8 B,China,internet,1750,72,Diversified
+Xu Guozhong & family,$1.8 B,China,Motors,1750,57,Manufacturing
+Yang Tingdong,$1.8 B,China,brewery,1750,60,Food & Beverage
+Zhang Xuexin & family,$1.8 B,China,aluminum,1750,73,Metals & Mining
+Zhang Yubai,$1.8 B,China,wine,1750,56,Food & Beverage
+Zhao Weiguo,$1.8 B,China,IT products,1750,54,Technology
+Chen Guoxiang & family,$1.7 B,China,real estate,1833,70,Real Estate
+Chen Wenyuan & family,$1.7 B,China,testing equipment,1833,53,Technology
+Chen Xueling,$1.7 B,China,stationery,1833,53,Manufacturing
+Cheng Xianfeng,$1.7 B,China,pharmaceuticals,1833,52,Healthcare
+Jia Tianjiang & family,$1.7 B,China,non-ferrous metals,1833,58,Metals & Mining
+Eric Jing,$1.7 B,China,e-commerce,1833,48,Technology
+Bill Liu,$1.7 B,China,electronics,1833,38,Technology
+Lu Di,$1.7 B,China,drones,1833,N/A,Technology
+Ma Xiuhui,$1.7 B,China,LED lighting,1833,50,Manufacturing
+Shao Genhuo,$1.7 B,China,agribusiness,1833,55,Food & Beverage
+Shao Qinxiang,$1.7 B,China,diversified,1833,66,Manufacturing
+Tung Ching Sai,$1.7 B,China,manufacturing,1833,56,Manufacturing
+Wang Junmin,$1.7 B,China,pharmaceuticals,1833,52,Healthcare
+Wang Yanqing & family,$1.7 B,China,carbon fiber products,1833,74,Manufacturing
+Wu Ying,$1.7 B,China,materials,1833,56,Manufacturing
+Wu Yulan,$1.7 B,China,pharmaceuticals,1833,51,Healthcare
+Xu Xudong & family,$1.7 B,China,auto parts,1833,51,Automotive
+Yang Yunyun,$1.7 B,China,retail,1833,44,Fashion & Retail
+Ye Yanqiao,$1.7 B,China,soy sauce,1833,51,Food & Beverage
+Zeng Chaoyi,$1.7 B,China,aluminum products,1833,52,Manufacturing
+Zhang Guiping & family,$1.7 B,China,real estate,1833,69,Real Estate
+Chen Kaichen,$1.6 B,China,household chemicals,1931,N/A,Manufacturing
+Chen Qiongxiang,$1.6 B,China,batteries,1931,N/A,Energy
+Chen Xuehua,$1.6 B,China,nonferrous,1931,60,Metals & Mining
+Chen Zemin & family,$1.6 B,China,food,1931,78,Food & Beverage
+Ding Lieming & family,$1.6 B,China,pharmaceuticals,1931,57,Healthcare
+Jiang Yintai & family,$1.6 B,China,auto parts,1931,70,Automotive
+Ke Guihua,$1.6 B,China,auto parts,1931,55,Manufacturing
+Li Li,$1.6 B,China,pharmaceuticals,1931,57,Healthcare
+Li Zhen & family,$1.6 B,China,lithium batteries,1931,57,Manufacturing
+Liang Yanfeng & family,$1.6 B,China,real estate,1931,56,Real Estate
+Liu Yingqi,$1.6 B,China,technology,1931,44,Technology
+Mao Lixiang & family,$1.6 B,China,cooking appliances,1931,80,Technology
+Ni Zugen,$1.6 B,China,appliances,1931,64,Manufacturing
+Pan Gang,$1.6 B,China,dairy,1931,50,Food & Beverage
+Sun Weijie,$1.6 B,China,oilfield equipment,1931,57,Manufacturing
+Tang Jianfang,$1.6 B,China,packaged foods,1931,N/A,Food & Beverage
+Tung Ching Bor,$1.6 B,China,manufacturing,1931,58,Manufacturing
+Wang Qinghua,$1.6 B,China,electric equipment,1931,55,Manufacturing
+Wang Xuechao,$1.6 B,China,pharmaceuticals,1931,N/A,Healthcare
+Wang Yiran,$1.6 B,China,LCD main board,1931,41,Technology
+Wu Chaoqun,$1.6 B,China,chemicals,1931,51,Manufacturing
+Wu Yingming,$1.6 B,China,batteries,1931,54,Energy
+Xie Bingkun & family,$1.6 B,China,pearlescent pigments,1931,54,Fashion & Retail
+Xiu Laigui,$1.6 B,China,pharmaceuticals,1931,66,Healthcare
+Yang Erzhu,$1.6 B,China,real estate,1931,70,Real Estate
+Yang Lijuan,$1.6 B,China,restaurants,1931,43,Food & Beverage
+Yao Kuizhang,$1.6 B,China,beverages,1931,56,Food & Beverage
+Zhang Cheng Fei,$1.6 B,China,paper & related products,1931,53,Manufacturing
+Zhang Keqiang,$1.6 B,China,real estate,1931,60,Real Estate
+Zhang Shilong & family,$1.6 B,China,semiconductor,1931,55,Technology
+Zhang Xiaojuan,$1.6 B,China,logistics,1931,51,Logistics
+Zhang Yuanlin,$1.6 B,China,real estate,1931,45,Real Estate
+Chen Baohua,$1.5 B,China,pharmaceutical,2035,59,Healthcare
+Chen Xianbao & family,$1.5 B,China,food,2035,61,Food & Beverage
+Chen Xiaohui,$1.5 B,China,information technology,2035,50,Technology
+Geng Diangen,$1.5 B,China,Internet,2035,64,Technology
+Guo Ziwen,$1.5 B,China,real estate,2035,57,Real Estate
+Huang Wen Tsai,$1.5 B,China,real estate,2035,67,Real Estate
+Huang Wenbiao,$1.5 B,China,soy sauce,2035,53,Food & Beverage
+Ke Xiping & family,$1.5 B,China,investments,2035,60,Diversified
+Lin Zhijun,$1.5 B,China,medical devices,2035,45,Healthcare
+Lin Zhixiong & family,$1.5 B,China,medical devices,2035,47,Healthcare
+Lu Zongjun,$1.5 B,China,logistics,2035,57,Logistics
+Ren Jinsheng & family,$1.5 B,China,pharmaceutical,2035,58,Healthcare
+Sun Qinghuan,$1.5 B,China,lighting,2035,47,Technology
+Sun Yonghui,$1.5 B,China,LCD main board,2035,50,Technology
+Wang Huiwen,$1.5 B,China,e-commerce,2035,43,Technology
+Wang Wenbiao,$1.5 B,China,"natural gas, fertilizers",2035,64,Manufacturing
+Wang Yaohai,$1.5 B,China,lighting,2035,54,Technology
+Wang Zelong,$1.5 B,China,chemicals,2035,24,Metals & Mining
+Wang Zhentao & family,$1.5 B,China,vaccine & shoes,2035,55,Healthcare
+Wen Yilong,$1.5 B,China,e-cigarettes,2035,32,Manufacturing
+Wu Zhenxing,$1.5 B,China,soy sauce,2035,51,Food & Beverage
+Xiang Guangming & family,$1.5 B,China,waste disposal,2035,57,Manufacturing
+Xu Gang,$1.5 B,China,Chemicals,2035,57,Manufacturing
+Xu Wanmao,$1.5 B,China,education,2035,76,Service
+Jane Yan & family,$1.5 B,China,software,2035,51,Technology
+Ye Cheng,$1.5 B,China,conglomerate,2035,59,Diversified
+Yi Dasheng,$1.5 B,China,conglomerate,2035,60,Diversified
+Yu Rong,$1.5 B,China,health clinics,2035,49,Healthcare
+Yuan Zhimin & family,$1.5 B,China,plastics,2035,60,Manufacturing
+Zeng Chaolin,$1.5 B,China,Aluminium,2035,38,Metals & Mining
+Zhou Jian,$1.5 B,China,robotics,2035,44,Technology
+Zhu Yiming,$1.5 B,China,semiconductors,2035,48,Technology
+Zhuang Kuilong & family,$1.5 B,China,polyester,2035,58,Manufacturing
+Cai Hao & family,$1.4 B,China,solar energy,2141,50,Manufacturing
+Chen Liying,$1.4 B,China,package delivery,2141,45,Logistics
+Chen Qixing,$1.4 B,China,electronics components,2141,61,Technology
+Chen Zhuolin,$1.4 B,China,real estate,2141,59,Real Estate
+Fang Zhancheng,$1.4 B,China,soy sauce,2141,N/A,Food & Beverage
+Gao Yunfeng,$1.4 B,China,industrial lasers,2141,54,Manufacturing
+He Ningning,$1.4 B,China,electronic components,2141,50,Manufacturing
+He Yamin & family,$1.4 B,China,manufacturing,2141,64,Manufacturing
+Hu Chengzhong,$1.4 B,China,manufacturing,2141,60,Manufacturing
+Hu Gengxi & family,$1.4 B,China,Bio-Pharma,2141,57,Healthcare
+Huang Hongyun & family,$1.4 B,China,real estate,2141,54,Real Estate
+Huang Jian,$1.4 B,China,home appliance,2141,54,Manufacturing
+Huang Weibin,$1.4 B,China,home appliances,2141,53,Manufacturing
+Huang Xiaofen & family,$1.4 B,China,printed circuit boards,2141,59,Technology
+Li Denghai,$1.4 B,China,seed production,2141,71,Food & Beverage
+Liang Qin & family,$1.4 B,China,semiconductor devices,2141,49,Technology
+Liang Yaoming,$1.4 B,China,diagnostics,2141,57,Healthcare
+Liu Hua,$1.4 B,China,infant formula,2141,48,Food & Beverage
+Liu Xuejing & family,$1.4 B,China,"copper, poultry",2141,70,Diversified
+Lu Rongfu,$1.4 B,China,telecommunication,2141,50,Telecom
+Qi Jinxing,$1.4 B,China,real estate,2141,59,Real Estate
+Qian Jinghong,$1.4 B,China,electric scooters,2141,48,Automotive
+Tan Ruiqing,$1.4 B,China,chemicals,2141,54,Manufacturing
+Wang Jianfeng & family,$1.4 B,China,auto parts,2141,51,Automotive
+Wang Junjin,$1.4 B,China,airline,2141,52,Service
+Wang Mingwang,$1.4 B,China,electronics components,2141,53,Manufacturing
+Wang Xiaoshen,$1.4 B,China,lithium,2141,52,Manufacturing
+Wu Po Sum,$1.4 B,China,real estate,2141,70,Real Estate
+Xie Ketao,$1.4 B,China,education,2141,57,Service
+Swift Xie,$1.4 B,China,drones,2141,41,Technology
+Yu Guo,$1.4 B,China,education,2141,59,Service
+Zheng Hong & family,$1.4 B,China,electronics,2141,70,Technology
+Shusheng Zheng,$1.4 B,China,telecom,2141,55,Telecom
+Cao Xiaochun,$1.3 B,China,pharmaceuticals,2263,52,Healthcare
+Cheng Lili,$1.3 B,China,poultry breeding,2263,56,Food & Beverage
+Chu Jian,$1.3 B,China,Manufacturing,2263,58,Manufacturing
+Du Shuanghua,$1.3 B,China,steel,2263,56,Manufacturing
+Fan Minhua,$1.3 B,China,pharmaceuticals,2263,59,Healthcare
+Feng Yi,$1.3 B,China,software,2263,47,Technology
+Huang Shan,$1.3 B,China,software,2263,50,Technology
+Jiang Ganjun,$1.3 B,China,home & office products,2263,57,Manufacturing
+Li Tan,$1.3 B,China,pharmaceuticals,2263,56,Healthcare
+Liang Guangwei,$1.3 B,China,conglomerate,2263,57,Manufacturing
+Liang Jiankun & family,$1.3 B,China,cobalt mining,2263,59,Metals & Mining
+Liu Jilu & family,$1.3 B,China,Logistics,2263,74,Logistics
+Lu Hongyan,$1.3 B,China,online games,2263,43,Media & Entertainment
+Zhaoxi Lu,$1.3 B,China,e-commerce,2263,52,Technology
+Ma Renhe,$1.3 B,China,"textiles, apparel",2263,61,Fashion & Retail
+Qiu Minxiu,$1.3 B,China,semiconductors,2263,75,Technology
+Shao Xiaofeng,$1.3 B,China,e-commerce,2263,55,Technology
+Wei Shaojun,$1.3 B,China,real estate,2263,58,Real Estate
+Wu Yonghua,$1.3 B,China,apparel,2263,50,Fashion & Retail
+Xia Shudong,$1.3 B,China,IT service,2263,48,Technology
+Xiong Jun & family,$1.3 B,China,pharmaceuticals,2263,47,Healthcare
+Xu Guangfu & family,$1.3 B,China,Daqo Group,2263,78,Energy
+Yang Keng,$1.3 B,China,real estate,2263,60,Real Estate
+Ye Qiongjiu,$1.3 B,China,software,2263,66,Technology
+Yu Bangping & family,$1.3 B,China,coal mining,2263,53,Metals & Mining
+Yu Jinkun & family,$1.3 B,China,transportation equipment,2263,78,Manufacturing
+Zhang Gongyun,$1.3 B,China,tyre manufacturing machinery,2263,58,Manufacturing
+Zhou Chengjian,$1.3 B,China,fashion retail,2263,55,Fashion & Retail
+Zhou Xiayun & family,$1.3 B,China,Education,2263,66,Service
+Zhu Tao,$1.3 B,China,pharmaceutical,2263,48,Healthcare
+Cao Kejian,$1.2 B,China,air compressors,2378,58,Manufacturing
+Chen Gang,$1.2 B,China,solar energy,2378,53,Energy
+Chen Tianqiao,$1.2 B,China,online games,2378,47,Technology
+Cheng Wei,$1.2 B,China,ride-hailing service,2378,38,Service
+Fan Zhaoxia & family,$1.2 B,China,photovoltaic equipment,2378,53,Energy
+Hu Xiaojun & family,$1.2 B,China,Airline,2378,59,Service
+Huang Shanbing & family,$1.2 B,China,semiconductors,2378,64,Technology
+Huang Yimeng,$1.2 B,China,mobile games,2378,39,Media & Entertainment
+Li Fengluan,$1.2 B,China,"steel, diversified",2378,59,Diversified
+Lin Jie & family,$1.2 B,China,pharmaceuticals,2378,52,Healthcare
+Liu Baolin,$1.2 B,China,pharmacies,2378,67,Fashion & Retail
+Liu Gexin & family,$1.2 B,China,pharmaceuticals,2378,69,Healthcare
+Lou Guoqiang,$1.2 B,China,copper,2378,64,Manufacturing
+Lu Shenglin,$1.2 B,China,machinery,2378,40,Manufacturing
+Lu Zhilin,$1.2 B,China,machinery,2378,38,Manufacturing
+Lun Ruixiang & family,$1.2 B,China,real estate,2378,53,Real Estate
+Mou Jinxiang,$1.2 B,China,chemicals,2378,67,Manufacturing
+Qin Qingping & family,$1.2 B,China,coal & coke,2378,58,Energy
+Rao Wei & family,$1.2 B,China,pharmaceuticals,2378,56,Healthcare
+Ren Zhengfei,$1.2 B,China,telecom equipment,2378,77,Telecom
+Wan Feng & family,$1.2 B,China,medical equipment,2378,52,Healthcare
+Wang Fuji,$1.2 B,China,pharmaceuticals,2378,N/A,Healthcare
+Wang Jianyi,$1.2 B,China,fiber optic cables,2378,58,Technology
+Wang Qunbin,$1.2 B,China,conglomerate,2378,51,Diversified
+Wang Shumin,$1.2 B,China,manufacturing,2378,64,Manufacturing
+Xiang Guangda,$1.2 B,China,metals,2378,63,Metals & Mining
+Xiong Haitao,$1.2 B,China,plastics/investment,2378,57,Manufacturing
+Xu Guifen & family,$1.2 B,China,food,2378,70,Food & Beverage
+Yao Liangbo,$1.2 B,China,furniture retailing,2378,52,Fashion & Retail
+Yi Xianzhong & family,$1.2 B,China,pharmaceuticals,2378,61,Healthcare
+Yuan Jiandong & family,$1.2 B,China,pharmaceuticals,2378,51,Healthcare
+Zhang Chuanwei & family,$1.2 B,China,machinery,2378,58,Manufacturing
+Zhang Xi,$1.2 B,China,chemicals,2378,47,Manufacturing
+Zhang Xuanning,$1.2 B,China,retail,2378,50,Fashion & Retail
+Zhao Dongping,$1.2 B,China,technology,2378,44,Technology
+Zheng Jianjiang & family,$1.2 B,China,electrical equipment,2378,60,Manufacturing
+Zheng Xiaodong,$1.2 B,China,manufacturing,2378,57,Manufacturing
+Zhou Minghua,$1.2 B,China,pharmaceutical,2378,57,Healthcare
+Zhou Ruxin,$1.2 B,China,Navigation,2378,58,Technology
+Zhou Wen & family,$1.2 B,China,chemicals,2378,56,Manufacturing
+Zhou Yifeng & family,$1.2 B,China,liquefied petroleum gas,2378,42,Energy
+Bai Houshan,$1.1 B,China,lithium battery,2524,57,Energy
+Cai Hongbin,$1.1 B,China,pharmaceuticals,2524,N/A,Healthcare
+Cao Jianwei,$1.1 B,China,semiconductors,2524,42,Manufacturing
+Chen Jiancheng,$1.1 B,China,manufacturing,2524,62,Manufacturing
+Chen Jinshi & family,$1.1 B,China,"construction, real estate",2524,58,Real Estate
+Chen Yuantai,$1.1 B,China,batteries,2524,53,Energy
+Trudy Shan Dai,$1.1 B,China,e-commerce,2524,45,Technology
+Feng Yuxia,$1.1 B,China,pharmaceuticals,2524,56,Healthcare
+Gao Xingjiang,$1.1 B,China,steel,2524,57,Manufacturing
+Guo Jianqiang,$1.1 B,China,Electrical appliances,2524,53,Manufacturing
+Hu Rongda & family,$1.1 B,China,chemicals,2524,62,Manufacturing
+Huang Qiaolong & family,$1.1 B,China,tourism,2524,61,Service
+Jiang Xuefei & family,$1.1 B,China,printed circuit boards,2524,51,Technology
+Jin Lei & family,$1.1 B,China,medical equipment,2524,66,Healthcare
+Lai Baosheng,$1.1 B,China,consumer technology,2524,N/A,Technology
+Lai Guogui & family,$1.1 B,China,machinery,2524,57,Manufacturing
+Lam Lung On & family,$1.1 B,China,real estate,2524,56,Real Estate
+Li Qiong,$1.1 B,China,online games,2524,43,Technology
+Li Wenmei & family,$1.1 B,China,medical equipment,2524,58,Healthcare
+Liu Shenghui,$1.1 B,China,infant formula,2524,51,Food & Beverage
+Lu Weiding,$1.1 B,China,diversified,2524,50,Diversified
+Lv Yongxiang,$1.1 B,China,magnetic switches,2524,71,Manufacturing
+Ou Xueming,$1.1 B,China,real estate,2524,72,Real Estate
+Peng Hao,$1.1 B,China,electronics,2524,53,Manufacturing
+Pu Shulin,$1.1 B,China,TV shows,2524,65,Media & Entertainment
+Qiu Lingyun,$1.1 B,China,consumer technology,2524,45,Technology
+Ruan Hongxian & family,$1.1 B,China,pharmaceuticals,2524,54,Healthcare
+Chanchai Ruayrungruang,$1.1 B,China,real estate,2524,67,Real Estate
+Su Rubo,$1.1 B,China,real estate,2524,66,Real Estate
+Sun Xishuang,$1.1 B,China,real estate,2524,67,Real Estate
+Wang Han,$1.1 B,China,airline,2524,33,Diversified
+Wang Jianliang,$1.1 B,China,consumer technology,2524,45,Technology
+Wang Kunxiao,$1.1 B,China,oilfield equipment,2524,51,Manufacturing
+Wen Pengcheng & family,$1.1 B,China,agribusiness,2524,58,Food & Beverage
+Wen Yibo & family,$1.1 B,China,wastewater treatment,2524,55,Service
+Wong Hei & family,$1.1 B,China,conglomerate,2524,59,Diversified
+Wong Hong King,$1.1 B,China,real estate,2524,59,Real Estate
+Wu Eddie Yongming,$1.1 B,China,e-commerce,2524,46,Technology
+Wu Wei,$1.1 B,China,education,2524,53,Service
+Xiao Guoqing,$1.1 B,China,education,2524,52,Service
+Yao Lisheng,$1.1 B,China,electronics,2524,51,Technology
+Yu Faxiang,$1.1 B,China,"tourism, cultural industry",2524,49,Media & Entertainment
+Yuan Jinhua,$1.1 B,China,Manufacturing,2524,61,Manufacturing
+Zan Shengda,$1.1 B,China,diversified,2524,58,Diversified
+Zeng Huansha,$1.1 B,China,real estate,2524,53,Real Estate
+Zhang Xuewu,$1.1 B,China,snacks,2524,46,Food & Beverage
+Zhang Yuxiang & family,$1.1 B,China,apparel,2524,56,Fashion & Retail
+Tony Zhao,$1.1 B,China,software,2524,49,Technology
+Zhou Ping & family,$1.1 B,China,utilities,2524,58,Service
+Zhou Yahui,$1.1 B,China,online games,2524,44,Technology
+Gou Yiqun,$1 B,China,restaurant,2674,48,Food & Beverage
+Hang Hong,$1 B,China,machinery,2674,53,Manufacturing
+Hou Jianbin,$1 B,China,education,2674,39,Service
+Jiang Long,$1 B,China,Manufacturing,2674,47,Technology
+Li Yinan,$1 B,China,Investments,2674,51,Finance & Investments
+Liu Qingfeng,$1 B,China,software,2674,48,Technology
+Ma Hong,$1 B,China,machinery,2674,50,Manufacturing
+Tong Judy Wenhong,$1 B,China,e-commerce,2674,51,Technology
+Wang Qiangxiang,$1 B,China,artificial turf,2674,49,Service
+Wang Wenjian,$1 B,China,optical devices,2674,74,Technology
+Xia Zhisheng & family,$1 B,China,home appliances,2674,79,Technology
+Xu Jin,$1 B,China,wine,2674,56,Food & Beverage
+Mark Haoyong Yang,$1 B,China,e-commerce,2674,46,Technology
+Daniel Yong Zhang,$1 B,China,e-commerce,2674,49,Technology
+Zhang Yuqiang,$1 B,China,Fiberglass,2674,65,Manufacturing
+Zhao Meiguang,$1 B,China,gold mining,2674,58,Metals & Mining
+Zhong Naixiong,$1 B,China,conglomerate,2674,58,Diversified
+Zhou Wei family,$1 B,China,Software,2674,54,Technology

@@ -1,0 +1,725 @@
+Name,NetWorth,Country,Source,Rank,Age,Industry
+Jeff Bezos,$177 B,United States,Amazon,1,57,Technology
+Elon Musk,$151 B,United States,"Tesla, SpaceX",2,49,Automotive
+Bill Gates,$124 B,United States,Microsoft,4,65,Technology
+Mark Zuckerberg,$97 B,United States,Facebook,5,36,Technology
+Warren Buffett,$96 B,United States,Berkshire Hathaway,6,90,Finance & Investments
+Larry Ellison,$93 B,United States,software,7,76,Technology
+Larry Page,$91.5 B,United States,Google,8,48,Technology
+Sergey Brin,$89 B,United States,Google,9,47,Technology
+Steve Ballmer,$68.7 B,United States,Microsoft,14,65,Technology
+Alice Walton,$61.8 B,United States,Walmart,17,71,Fashion & Retail
+Jim Walton,$60.2 B,United States,Walmart,18,72,Fashion & Retail
+Rob Walton,$59.5 B,United States,Walmart,19,76,Fashion & Retail
+Michael Bloomberg,$59 B,United States,Bloomberg LP,20,79,Media & Entertainment
+MacKenzie Scott,$53 B,United States,Amazon,22,50,Technology
+Daniel Gilbert,$51.9 B,United States,Quicken Loans,23,59,Finance & Investments
+Phil Knight & family,$49.9 B,United States,Nike,25,83,Fashion & Retail
+Charles Koch,$46.4 B,United States,Koch Industries,27,85,Diversified
+Julia Koch & family,$46.4 B,United States,Koch Industries,27,58,Diversified
+Michael Dell,$45.1 B,United States,Dell computers,30,56,Technology
+Miriam Adelson,$38.2 B,United States,casinos,36,75,Gambling & Casinos
+Len Blavatnik,$32 B,United States,"music, chemicals",46,63,Diversified
+Jacqueline Mars,$31.3 B,United States,"candy, pet food",48,81,Food & Beverage
+John Mars,$31.3 B,United States,"candy, pet food",48,85,Food & Beverage
+Leonard Lauder,$25.5 B,United States,Estee Lauder,64,88,Fashion & Retail
+Thomas Peterffy,$25 B,United States,discount brokerage,65,76,Finance & Investments
+Jim Simons,$24.6 B,United States,hedge funds,68,82,Finance & Investments
+Rupert Murdoch & family,$23.5 B,United States,"newspapers, TV network",71,90,Media & Entertainment
+Stephen Schwarzman,$21.9 B,United States,investments,79,74,Finance & Investments
+Pierre Omidyar,$21.4 B,United States,"eBay, PayPal",83,53,Technology
+Abigail Johnson,$20.9 B,United States,money management,85,59,Finance & Investments
+Ray Dalio,$20.3 B,United States,hedge funds,88,71,Finance & Investments
+Laurene Powell Jobs & family,$19 B,United States,"Apple, Disney",95,57,Technology
+Eric Schmidt,$18.9 B,United States,Google,96,65,Technology
+Robert Pera,$18.3 B,United States,wireless networking gear,100,43,Technology
+Dustin Moskovitz,$17.8 B,United States,Facebook,107,36,Technology
+Donald Newhouse,$17.6 B,United States,media,109,91,Media & Entertainment
+Steve Cohen,$16 B,United States,hedge funds,119,64,Finance & Investments
+Ken Griffin,$16 B,United States,hedge funds,119,52,Finance & Investments
+"Ernest Garcia, II.",$15.9 B,United States,used cars,121,63,Automotive
+Carl Icahn,$15.8 B,United States,investments,124,85,Finance & Investments
+"Thomas Frist, Jr. & family",$15.7 B,United States,hospitals,126,82,Healthcare
+Lukas Walton,$15.6 B,United States,Walmart,127,34,Fashion & Retail
+Donald Bren,$15.3 B,United States,real estate,132,88,Real Estate
+Eric Yuan & family,$14.9 B,United States,video conferencing,133,51,Technology
+David Tepper,$14.5 B,United States,hedge funds,142,63,Finance & Investments
+"John Menard, Jr.",$14.2 B,United States,home improvement stores,145,81,Fashion & Retail
+Brian Chesky,$13.7 B,United States,Airbnb,154,39,Technology
+David Duffield,$13.5 B,United States,business software,156,80,Technology
+Hank & Doug Meijer,$12.6 B,United States,supermarkets,171,66,Fashion & Retail
+Jack Dorsey,$12.5 B,United States,"Twitter, Square",173,44,Technology
+Nathan Blecharczyk,$12.4 B,United States,Airbnb,177,37,Technology
+John Doerr,$12.4 B,United States,venture capital,177,69,Technology
+Joe Gebbia,$12.4 B,United States,Airbnb,177,39,Technology
+Gordon Moore,$12.1 B,United States,Intel,182,92,Technology
+Jeff Yass,$12 B,United States,"trading, investments",184,62,Finance & Investments
+Bobby Murphy,$11.9 B,United States,Snapchat,185,32,Technology
+Jensen Huang,$11.8 B,United States,semiconductors,186,58,Technology
+Evan Spiegel,$11.1 B,United States,Snapchat,197,30,Technology
+Tom & Judy Love,$10.8 B,United States,retail & gas stations,205,83,Fashion & Retail
+Charles Schwab,$10.6 B,United States,discount brokerage,210,83,Finance & Investments
+"Chase Coleman, III.",$10.3 B,United States,investments,219,45,Finance & Investments
+"Edward Johnson, III.",$10.3 B,United States,money management,219,90,Finance & Investments
+Philip Anschutz,$10.1 B,United States,investments,224,81,Finance & Investments
+Li Ge,$10.1 B,United States,pharmaceutical ingredients,224,54,Healthcare
+Jay Chaudhry,$10 B,United States,security software,228,61,Technology
+Carl Cook,$9.9 B,United States,medical devices,230,58,Healthcare
+Jan Koum,$9.9 B,United States,WhatsApp,230,45,Technology
+"Herbert Kohler, Jr. & family",$9.8 B,United States,plumbing fixtures,232,82,Manufacturing
+Mat Ishbia,$9.7 B,United States,★,234,41,Finance & Investments
+Israel Englander,$9.6 B,United States,hedge funds,241,72,Finance & Investments
+Charles Ergen,$9.6 B,United States,satellite TV,241,68,Media & Entertainment
+David Geffen,$9.5 B,United States,"movies, record labels",245,78,Media & Entertainment
+Harold Hamm & family,$9.4 B,United States,oil & gas,247,75,Energy
+Jim Kennedy,$9.4 B,United States,"media, automotive",247,73,Media & Entertainment
+Blair Parry-Okeden,$9.4 B,United States,"media, automotive",247,70,Media & Entertainment
+Sun Hongbin,$9.3 B,United States,real estate,251,58,Real Estate
+David Sun,$9.1 B,United States,computer hardware,256,69,Technology
+John Tu,$9.1 B,United States,computer hardware,256,79,Technology
+Jerry Jones,$8.9 B,United States,Dallas Cowboys,264,78,Sports
+Steven Rales,$8.9 B,United States,manufacturing,264,70,Manufacturing
+Sam Bankman-Fried,$8.7 B,United States,cryptocurrency,274,29,Finance & Investments
+Lin Bin,$8.7 B,United States,smartphones,274,53,Technology
+Leon Black,$8.6 B,United States,private equity,288,69,Finance & Investments
+George Soros,$8.6 B,United States,hedge funds,288,90,Finance & Investments
+Marc Benioff,$8.4 B,United States,business software,294,56,Technology
+Ann Walton Kroenke,$8.4 B,United States,Walmart,294,72,Fashion & Retail
+Bubba Cathy,$8.3 B,United States,Chick-fil-A,297,66,Food & Beverage
+Dan Cathy,$8.3 B,United States,Chick-fil-A,297,68,Food & Beverage
+Stanley Kroenke,$8.2 B,United States,"sports, real estate",304,73,Sports
+Diane Hendricks,$8 B,United States,roofing,308,74,Construction & Engineering
+Shahid Khan,$8 B,United States,auto parts,308,70,Automotive
+Andrew Beal,$7.9 B,United States,"banks, real estate",311,68,Finance & Investments
+John Malone,$7.8 B,United States,cable television,316,80,Media & Entertainment
+Marijke Mars,$7.8 B,United States,"candy, pet food",316,56,Food & Beverage
+Pamela Mars,$7.8 B,United States,"candy, pet food",316,60,Food & Beverage
+Valerie Mars,$7.8 B,United States,"candy, pet food",316,62,Food & Beverage
+Victoria Mars,$7.8 B,United States,"candy, pet food",316,64,Food & Beverage
+David Green & family,$7.6 B,United States,retail,327,79,Fashion & Retail
+George Roberts,$7.6 B,United States,private equity,327,77,Finance & Investments
+Nancy Walton Laurie,$7.5 B,United States,Walmart,334,69,Fashion & Retail
+Patrick Soon-Shiong,$7.5 B,United States,pharmaceuticals,334,68,Healthcare
+"Ernest Garcia, III.",$7.4 B,United States,used cars,339,38,Automotive
+George Lucas,$7.4 B,United States,Star Wars,339,76,Media & Entertainment
+Henry Kravis,$7.3 B,United States,private equity,344,77,Finance & Investments
+David Shaw,$7.3 B,United States,hedge funds,344,70,Finance & Investments
+Rocco Commisso,$7.2 B,United States,telecom,352,71,Telecom
+Bernard Marcus,$7.2 B,United States,Home Depot,352,91,Fashion & Retail
+Christy Walton,$7.2 B,United States,Walmart,352,72,Fashion & Retail
+Ralph Lauren,$7.1 B,United States,apparel,358,81,Fashion & Retail
+Stewart and Lynda Resnick,$7.1 B,United States,"agriculture, water",358,N/A,Food & Beverage
+Anthony Wood,$7.1 B,United States,Roku,358,55,Technology
+"Paul Tudor Jones, II.",$7 B,United States,hedge funds,369,66,Finance & Investments
+Richard Kinder,$7 B,United States,pipelines,369,76,Energy
+Stephen Ross,$7 B,United States,real estate,369,80,Real Estate
+Eli Broad,$6.9 B,United States,investments,380,87,Finance & Investments
+Jim Davis & family,$6.9 B,United States,New Balance,380,77,Manufacturing
+Robert Kraft,$6.9 B,United States,New England Patriots,380,79,Sports
+Micky Arison,$6.7 B,United States,Carnival Cruises,391,71,Service
+Reinhold Schmieding,$6.7 B,United States,medical devices,391,66,Healthcare
+Bruce Kovner,$6.6 B,United States,hedge funds,400,76,Finance & Investments
+Brian Armstrong,$6.5 B,United States,cryptocurrency,404,38,Finance & Investments
+James Goodnight,$6.5 B,United States,software,404,78,Technology
+John Overdeck,$6.5 B,United States,hedge funds,404,51,Finance & Investments
+David Siegel,$6.5 B,United States,hedge funds,404,59,Finance & Investments
+Ronda Stryker,$6.5 B,United States,medical equipment,404,66,Healthcare
+Pauline MacMillan Keinath,$6.4 B,United States,Cargill,418,87,Food & Beverage
+Dennis Washington,$6.4 B,United States,"construction, mining",418,86,Logistics
+Arthur Blank,$6.2 B,United States,Home Depot,432,78,Sports
+James Chambers,$6.2 B,United States,"media, automotive",432,63,Media & Entertainment
+Mitchell Rales,$6.2 B,United States,"manufacturing, investments",432,64,Manufacturing
+Katharine Rayner,$6.2 B,United States,"media, automotive",432,76,Media & Entertainment
+Margaretta Taylor,$6.2 B,United States,"media, automotive",432,78,Media & Entertainment
+Charles Dolan & family,$6.1 B,United States,cable television,440,94,Media & Entertainment
+Henry Samueli,$6.1 B,United States,semiconductors,440,66,Technology
+Les Wexner & family,$6.1 B,United States,retail,440,83,Fashion & Retail
+Dannine Avara,$6 B,United States,pipelines,451,57,Energy
+Robert Brockman,$6 B,United States,Software,451,79,Technology
+Scott Duncan,$6 B,United States,pipelines,451,38,Energy
+Judy Faulkner,$6 B,United States,health IT,451,77,Technology
+Milane Frantz,$6 B,United States,pipelines,451,51,Energy
+Jane Lauder,$6 B,United States,Estée Lauder,451,48,Fashion & Retail
+Isaac Perlmutter,$6 B,United States,Marvel comics,451,78,Media & Entertainment
+Jeff Skoll,$6 B,United States,eBay,451,56,Technology
+Robert F. Smith,$6 B,United States,private equity,451,58,Finance & Investments
+John A. Sobrato & family,$6 B,United States,real estate,451,81,Real Estate
+Ronald Wanek,$6 B,United States,furniture,451,79,Manufacturing
+Randa Duncan Williams,$6 B,United States,pipelines,451,59,Energy
+George Kaiser,$5.8 B,United States,"oil & gas, banking",476,78,Energy
+Douglas Leone,$5.8 B,United States,venture capital,476,63,Finance & Investments
+Meg Whitman,$5.8 B,United States,eBay,476,64,Technology
+Neil Bluhm,$5.7 B,United States,real estate,486,83,Real Estate
+Tom Gores,$5.7 B,United States,private equity,486,56,Finance & Investments
+Michael Moritz,$5.7 B,United States,venture capital,486,66,Technology
+Fred Smith,$5.7 B,United States,FedEx,486,76,Logistics
+Jack Dangermond,$5.6 B,United States,mapping software,496,75,Technology
+Stanley Druckenmiller,$5.6 B,United States,hedge funds,496,67,Finance & Investments
+Tamara Gustavson,$5.6 B,United States,self storage,496,59,Service
+Dagmar Dolby & family,$5.5 B,United States,Dolby Laboratories,502,79,Technology
+Ken Fisher,$5.5 B,United States,money management,502,70,Finance & Investments
+Ronald Lauder,$5.5 B,United States,Estee Lauder,502,77,Fashion & Retail
+J. Christopher Reyes,$5.5 B,United States,food distribution,502,67,Food & Beverage
+Jude Reyes,$5.5 B,United States,food distribution,502,65,Food & Beverage
+"Edward Roski, Jr.",$5.5 B,United States,real estate,502,82,Real Estate
+"Henry Nicholas, III.",$5.4 B,United States,semiconductors,520,61,Technology
+Terrence Pegula,$5.4 B,United States,natural gas,520,70,Energy
+Harry Stine,$5.4 B,United States,agriculture,520,79,Food & Beverage
+Sam Zell,$5.3 B,United States,"real estate, private equity",529,79,Real Estate
+John Brown,$5.2 B,United States,medical equipment,539,86,Healthcare
+Joe Mansueto,$5.2 B,United States,investment research,539,64,Finance & Investments
+Gary Rollins,$5.2 B,United States,pest control,539,76,Service
+Robert Bass,$5.1 B,United States,"oil, investments",550,73,Energy
+Reed Hastings,$5.1 B,United States,Netflix,550,60,Media & Entertainment
+Joshua Harris,$5 B,United States,private equity,561,56,Finance & Investments
+"Walter Scott, Jr. & family",$5 B,United States,"utilities, telecom",561,89,Energy
+Charles Simonyi,$5 B,United States,Microsoft,561,72,Technology
+Daniel Ziff,$5 B,United States,investments,561,49,Finance & Investments
+Dirk Ziff,$5 B,United States,investments,561,57,Finance & Investments
+Robert Ziff,$5 B,United States,investments,561,54,Finance & Investments
+Stephen Bisciotti,$4.9 B,United States,"staffing, Baltimore Ravens",574,60,Sports
+Charles B. Johnson,$4.9 B,United States,money management,574,88,Finance & Investments
+Karen Pritzker,$4.9 B,United States,"hotels, investments",574,63,Finance & Investments
+Howard Schultz,$4.9 B,United States,Starbucks,574,67,Food & Beverage
+Thomas Siebel,$4.9 B,United States,business software,574,68,Technology
+Peter Thiel,$4.9 B,United States,Facebook,574,53,Finance & Investments
+"Edward Johnson, IV.",$4.8 B,United States,money management,589,56,Finance & Investments
+Elizabeth Johnson,$4.8 B,United States,money management,589,57,Finance & Investments
+Ted Lerner & family,$4.8 B,United States,real estate,589,95,Real Estate
+Alan Trefler,$4.8 B,United States,software,589,65,Technology
+Ken Langone,$4.7 B,United States,investments,608,85,Finance & Investments
+Richard Schulze,$4.7 B,United States,Best Buy,608,80,Fashion & Retail
+Eric Smidt,$4.7 B,United States,hardware stores,608,61,Fashion & Retail
+Tim Sweeney,$4.7 B,United States,video games,608,50,Media & Entertainment
+Mark Walter,$4.7 B,United States,finance,608,60,Finance & Investments
+Bert Beveridge,$4.6 B,United States,vodka,622,59,Food & Beverage
+Tilman Fertitta,$4.6 B,United States,"Houston Rockets, entertainment",622,63,Food & Beverage
+Peter Gassner,$4.6 B,United States,software,622,56,Technology
+"Robert Rich, Jr.",$4.6 B,United States,frozen foods,622,80,Food & Beverage
+Ron Baron,$4.5 B,United States,money management,638,77,Finance & Investments
+Jonathan Gray,$4.5 B,United States,investments,638,51,Finance & Investments
+Min Kao & family,$4.5 B,United States,navigation equipment,638,72,Technology
+Sami Mnaymneh,$4.5 B,United States,private equity,638,59,Finance & Investments
+Igor Olenicoff,$4.5 B,United States,real estate,638,78,Real Estate
+Thomas Pritzker,$4.5 B,United States,"hotels, investments",638,70,Finance & Investments
+"Julian Robertson, Jr.",$4.5 B,United States,hedge funds,638,88,Finance & Investments
+Tony Tamer,$4.5 B,United States,private equity,638,63,Finance & Investments
+Orlando Bravo,$4.4 B,United States,private equity,655,50,Finance & Investments
+Nick Caporella,$4.4 B,United States,beverages,655,85,Food & Beverage
+Mark Cuban,$4.4 B,United States,"online media, Dallas Mavericks",655,62,Media & Entertainment
+Thomas Hagen,$4.3 B,United States,insurance,665,85,Finance & Investments
+Eric Lefkofsky,$4.3 B,United States,Groupon,665,51,Technology
+Antony Ressler,$4.3 B,United States,finance,665,59,Finance & Investments
+Paul Singer,$4.3 B,United States,hedge funds,665,76,Finance & Investments
+Steven Udvar-Hazy,$4.3 B,United States,aircraft leasing,665,75,Service
+Rick Caruso,$4.2 B,United States,real estate,680,62,Real Estate
+Scott Cook,$4.2 B,United States,software,680,68,Technology
+Barry Diller,$4.2 B,United States,online media,680,79,Media & Entertainment
+Tom Golisano,$4.2 B,United States,payroll services,680,79,Service
+Ray Lee Hunt,$4.2 B,United States,"oil, real estate",680,78,Energy
+Leonard Stern,$4.2 B,United States,real estate,680,83,Real Estate
+Ken Xie,$4.2 B,United States,cybersecurity,680,58,Technology
+Margot Birmingham Perot,$4.1 B,United States,"computer services, real estate",705,87,Technology
+David Bonderman,$4.1 B,United States,private equity,705,78,Finance & Investments
+Matthew Calkins,$4.1 B,United States,software,705,48,Technology
+Dan Friedkin,$4.1 B,United States,Toyota dealerships,705,56,Automotive
+"Rupert Johnson, Jr.",$4.1 B,United States,money management,705,80,Finance & Investments
+William Lauder,$4.1 B,United States,Estee Lauder,705,60,Fashion & Retail
+Janice McNair,$4.1 B,United States,"energy, sports",705,84,Sports
+John Morris,$4.1 B,United States,sporting goods retail,705,73,Fashion & Retail
+Gabe Newell,$4.1 B,United States,videogames,705,58,Gambling & Casinos
+Jon Stryker,$4.1 B,United States,medical equipment,705,62,Healthcare
+Paul Xiaoming Lee & family,$4 B,United States,packaging,727,63,Manufacturing
+Gwendolyn Sontheim Meyer,$4 B,United States,Cargill,727,59,Food & Beverage
+Trevor Rees-Jones,$4 B,United States,oil & gas,727,69,Energy
+Ira Rennert,$4 B,United States,investments,727,86,Finance & Investments
+Marc Rowan,$4 B,United States,private equity,727,58,Finance & Investments
+Rakesh Gangwal,$3.9 B,United States,airline,752,67,Service
+Jeff Greene,$3.9 B,United States,"real estate, investments",752,66,Real Estate
+Johnelle Hunt,$3.9 B,United States,trucking,752,89,Logistics
+"Stephen Mandel, Jr.",$3.9 B,United States,hedge funds,752,65,Finance & Investments
+Robert Rowling,$3.9 B,United States,"hotels, investments",752,67,Service
+Mark Shoen,$3.9 B,United States,U-Haul,752,70,Automotive
+Ben Silbermann,$3.9 B,United States,Pinterest,752,38,Technology
+Daniel D'Aniello,$3.8 B,United States,private equity,775,74,Finance & Investments
+Jeff Green,$3.8 B,United States,online advertising,775,44,Media & Entertainment
+"Amos Hostetter, Jr.",$3.8 B,United States,cable television,775,84,Media & Entertainment
+Aerin Lauder,$3.8 B,United States,cosmetics,775,50,Fashion & Retail
+Donald Sterling,$3.8 B,United States,real estate,775,86,Real Estate
+Don Vultaggio & family,$3.8 B,United States,beverages,775,69,Food & Beverage
+Marian Ilitch,$3.7 B,United States,Little Caesars,807,88,Food & Beverage
+Mary Alice Dorrance Malone,$3.7 B,United States,Campbell Soup,807,71,Food & Beverage
+Michael Milken,$3.7 B,United States,investments,807,74,Finance & Investments
+Ronald Perelman,$3.7 B,United States,leveraged buyouts,807,78,Finance & Investments
+J. Joe Ricketts & family,$3.7 B,United States,TD Ameritrade,807,79,Finance & Investments
+Jeff Rothschild,$3.7 B,United States,Facebook,807,66,Technology
+David Rubenstein,$3.7 B,United States,private equity,807,71,Finance & Investments
+Steven Spielberg,$3.7 B,United States,movies,807,74,Media & Entertainment
+Barry Sternlicht,$3.7 B,United States,private equity,807,60,Finance & Investments
+Mark Stevens,$3.7 B,United States,venture capital,807,61,Finance & Investments
+David Steward,$3.7 B,United States,IT provider,807,69,Technology
+Vincent Viola,$3.7 B,United States,electronic trading,807,65,Finance & Investments
+Todd Wanek,$3.7 B,United States,furniture,807,57,Manufacturing
+Wang Roger,$3.7 B,United States,retail,807,72,Fashion & Retail
+Russ Weiner,$3.7 B,United States,energy drinks,807,50,Food & Beverage
+Herbert Wertheim,$3.7 B,United States,investments,807,81,Finance & Investments
+"Austen Cargill, II.",$3.6 B,United States,Cargill,831,70,Food & Beverage
+"James Cargill, II.",$3.6 B,United States,Cargill,831,71,Food & Beverage
+Steve Conine,$3.6 B,United States,online retail,831,48,Technology
+S. Curtis Johnson,$3.6 B,United States,cleaning products,831,65,Manufacturing
+Helen Johnson-Leipold,$3.6 B,United States,cleaning products,831,64,Manufacturing
+Peter Kellogg,$3.6 B,United States,investments,831,78,Finance & Investments
+Marianne Liebmann,$3.6 B,United States,Cargill,831,67,Food & Beverage
+Winifred J. Marquart,$3.6 B,United States,cleaning products,831,62,Manufacturing
+Daniel Och,$3.6 B,United States,hedge funds,831,60,Finance & Investments
+Anthony Pritzker,$3.6 B,United States,"hotels, investments",831,60,Service
+Rodger Riney & family,$3.6 B,United States,discount brokerage,831,75,Finance & Investments
+Niraj Shah,$3.6 B,United States,online retail,831,47,Technology
+Lynsi Snyder,$3.6 B,United States,In-N-Out Burger,831,38,Food & Beverage
+Ty Warner,$3.6 B,United States,"real estate, plush toys",831,76,Real Estate
+Charles Cohen,$3.5 B,United States,real estate,859,69,Real Estate
+David Filo,$3.5 B,United States,Yahoo,859,54,Technology
+Martha Ingram & family,$3.5 B,United States,"book distribution, transportation",859,85,Media & Entertainment
+H. Fisk Johnson,$3.5 B,United States,cleaning products,859,62,Manufacturing
+Daniel Loeb,$3.5 B,United States,hedge funds,859,59,Finance & Investments
+Jim McKelvey,$3.5 B,United States,mobile payments,859,55,Technology
+John Paulson,$3.5 B,United States,hedge funds,859,65,Finance & Investments
+J.B. Pritzker,$3.5 B,United States,"hotels, investments",859,56,Finance & Investments
+Michael Rubin,$3.5 B,United States,online retail,859,48,Fashion & Retail
+Thomas Secunda,$3.5 B,United States,Bloomberg LP,859,66,Media & Entertainment
+E. Joe Shoen,$3.5 B,United States,U-Haul,859,71,Automotive
+Romesh T. Wadhwani,$3.5 B,United States,software,859,73,Technology
+Denise York & family,$3.5 B,United States,San Francisco 49ers,859,70,Sports
+Gayle Benson,$3.4 B,United States,pro sports teams,891,74,Sports
+"William Conway, Jr.",$3.4 B,United States,private equity,891,71,Finance & Investments
+Jim Davis,$3.4 B,United States,staffing & recruiting,891,61,Service
+Steven Klinsky,$3.4 B,United States,investments,891,64,Finance & Investments
+Chris Larsen,$3.4 B,United States,cryptocurrency,891,60,Finance & Investments
+John Middleton,$3.4 B,United States,tobacco,891,66,Food & Beverage
+Arturo Moreno,$3.4 B,United States,"billboards, Anaheim Angels",891,74,Sports
+Jay Paul,$3.4 B,United States,real estate,891,73,Real Estate
+Patrick Ryan,$3.4 B,United States,insurance,891,83,Finance & Investments
+RJ Scaringe,$3.4 B,United States,electric vehicles,891,38,Automotive
+Lynn Schusterman,$3.4 B,United States,"oil & gas, investments",891,82,Energy
+Frank VanderSloot,$3.4 B,United States,"nutrition, wellness products",891,72,Fashion & Retail
+Kelcy Warren,$3.4 B,United States,pipelines,891,65,Energy
+John Arnold,$3.3 B,United States,hedge funds,925,47,Finance & Investments
+Neal Blue & family,$3.3 B,United States,defense,925,86,Manufacturing
+Joseph Edelman,$3.3 B,United States,hedge funds,925,65,Finance & Investments
+B. Wayne Hughes,$3.3 B,United States,self storage,925,87,Service
+Jim Koch,$3.3 B,United States,beer,925,71,Food & Beverage
+Richard LeFrak & family,$3.3 B,United States,real estate,925,75,Real Estate
+Jean (Gigi) Pritzker,$3.3 B,United States,"hotels, investments",925,58,Service
+"Bernard Saul, II.",$3.3 B,United States,"banking, real estate",925,88,Finance & Investments
+"William Wrigley, Jr.",$3.3 B,United States,chewing gum,925,57,Food & Beverage
+Archie Aldis Emmerson & family,$3.2 B,United States,"timberland, lumber mills",956,91,Manufacturing
+Don Hankey,$3.2 B,United States,auto loans,956,77,Finance & Investments
+Thai Lee,$3.2 B,United States,IT provider,956,62,Technology
+John Sall,$3.2 B,United States,software,956,73,Technology
+Steve Wynn,$3.2 B,United States,"casinos, hotels",956,79,Gambling & Casinos
+John Fisher,$3.1 B,United States,Gap,986,59,Fashion & Retail
+Jane Goldman,$3.1 B,United States,real estate,986,65,Real Estate
+Hao Hong,$3.1 B,United States,pharmaceuticals,986,65,Healthcare
+Penny Pritzker,$3.1 B,United States,"hotels, investments",986,61,Finance & Investments
+Herb Simon,$3.1 B,United States,real estate,986,86,Real Estate
+Jerry Speyer,$3.1 B,United States,real estate,986,80,Real Estate
+Ben Chestnut,$3 B,United States,email marketing,1008,46,Technology
+Behdad Eghbali,$3 B,United States,private equity,1008,44,Finance & Investments
+Jose E. Feliciano,$3 B,United States,private equity,1008,47,Finance & Investments
+Allan Goldman,$3 B,United States,real estate,1008,78,Real Estate
+Amy Goldman Fowler,$3 B,United States,real estate,1008,66,Real Estate
+Alec Gores,$3 B,United States,private equity,1008,68,Finance & Investments
+Jimmy Haslam,$3 B,United States,"gas stations, retail",1008,67,Fashion & Retail
+James Irsay,$3 B,United States,Indianapolis Colts,1008,61,Sports
+Justin Ishbia,$3 B,United States,★,1008,43,Finance & Investments
+Diane Kemper,$3 B,United States,real estate,1008,75,Real Estate
+George Kurtz,$3 B,United States,security software,1008,50,Technology
+Dan Kurzius,$3 B,United States,email marketing,1008,49,Technology
+Sheldon Lavin,$3 B,United States,meat processing,1008,88,Food & Beverage
+James Leprino,$3 B,United States,cheese,1008,83,Food & Beverage
+Joseph Liemandt,$3 B,United States,software,1008,52,Technology
+Jeffrey Lurie,$3 B,United States,Philadelphia Eagles,1008,69,Sports
+Haim Saban,$3 B,United States,"TV network, investments",1008,76,Media & Entertainment
+Pat Stryker,$3 B,United States,medical equipment,1008,65,Healthcare
+Cameron Winklevoss,$3 B,United States,cryptocurrency,1008,39,Finance & Investments
+Tyler Winklevoss,$3 B,United States,cryptocurrency,1008,39,Finance & Investments
+Ben Ashkenazy,$2.9 B,United States,real estate,1064,51,Real Estate
+Sid Bass,$2.9 B,United States,"oil, investments",1064,78,Energy
+Riley Bechtel & family,$2.9 B,United States,"engineering, construction",1064,69,Construction & Engineering
+Bennett Dorrance,$2.9 B,United States,Campbell Soup,1064,75,Food & Beverage
+Maggie Hardy Knox,$2.9 B,United States,building materials,1064,55,Service
+Bradley Jacobs,$2.9 B,United States,logistics,1064,64,Logistics
+Osman Kibar,$2.9 B,United States,biotech,1064,50,Healthcare
+Pablo Legorreta,$2.9 B,United States,investments,1064,57,Finance & Investments
+Chad Richison,$2.9 B,United States,payroll processing,1064,50,Technology
+Alejandro Santo Domingo,$2.9 B,United States,beer,1064,44,Food & Beverage
+Paul Sciarra,$2.9 B,United States,Pinterest,1064,40,Technology
+Jeff Sutton,$2.9 B,United States,real estate,1064,61,Real Estate
+Glen Taylor,$2.9 B,United States,printing,1064,79,Service
+Jon Yarbrough,$2.9 B,United States,video games,1064,63,Gambling & Casinos
+William Ackman,$2.8 B,United States,hedge funds,1111,54,Finance & Investments
+David Baszucki,$2.8 B,United States,online games,1111,58,Media & Entertainment
+Aneel Bhusri,$2.8 B,United States,business software,1111,55,Technology
+Norman Braman,$2.8 B,United States,"art, car dealerships",1111,88,Automotive
+John Catsimatidis,$2.8 B,United States,"oil, real estate",1111,72,Energy
+James Clark,$2.8 B,United States,"Netscape, investments",1111,77,Technology
+Doris Fisher,$2.8 B,United States,Gap,1111,89,Fashion & Retail
+Gary Friedman,$2.8 B,United States,Furniture retail,1111,63,Fashion & Retail
+Valentin Gapontsev & family,$2.8 B,United States,lasers,1111,82,Manufacturing
+David Gottesman,$2.8 B,United States,investments,1111,94,Finance & Investments
+John Henry,$2.8 B,United States,sports,1111,71,Sports
+Travis Kalanick,$2.8 B,United States,Uber,1111,44,Technology
+"Drayton McLane, Jr.",$2.8 B,United States,"Walmart, logistics",1111,84,Fashion & Retail
+T. Denny Sanford,$2.8 B,United States,"banking, credit cards",1111,85,Finance & Investments
+Warren Stephens,$2.8 B,United States,investment banking,1111,64,Finance & Investments
+Kenneth Tuchman,$2.8 B,United States,outsourcing,1111,61,Service
+Tony Xu,$2.8 B,United States,food delivery service,1111,36,Technology
+Timothy Boyle,$2.7 B,United States,Columbia Sportswear,1174,71,Fashion & Retail
+John Paul DeJoria,$2.7 B,United States,"hair products, tequila",1174,76,Fashion & Retail
+James Jannard,$2.7 B,United States,sunglasses,1174,71,Fashion & Retail
+Vinod Khosla,$2.7 B,United States,venture capital,1174,66,Technology
+Sean Parker,$2.7 B,United States,Facebook,1174,41,Technology
+Richard Peery,$2.7 B,United States,real estate,1174,82,Real Estate
+"H. Ross Perot, Jr.",$2.7 B,United States,real estate,1174,62,Real Estate
+Oprah Winfrey,$2.7 B,United States,TV shows,1174,67,Media & Entertainment
+Mortimer Zuckerman,$2.7 B,United States,"real estate, media",1174,83,Real Estate
+Brian Acton,$2.6 B,United States,WhatsApp,1205,49,Technology
+Anthony Hsieh,$2.6 B,United States,mortgage lender,1205,56,Finance & Investments
+Brad Kelley,$2.6 B,United States,tobacco,1205,64,Real Estate
+C. Dean Metropoulos,$2.6 B,United States,investments,1205,74,Food & Beverage
+Daniel Pritzker,$2.6 B,United States,"hotels, investments",1205,61,Finance & Investments
+Steven Sarowitz,$2.6 B,United States,payroll software,1205,55,Technology
+Dan Snyder,$2.6 B,United States,Washington Redskins,1205,56,Sports
+Evan Williams,$2.6 B,United States,Twitter,1205,49,Technology
+Charles Zegar,$2.6 B,United States,Bloomberg LP,1205,73,Media & Entertainment
+John Arrillaga,$2.5 B,United States,real estate,1249,84,Real Estate
+Carol Jenkins Barnett,$2.5 B,United States,Publix supermarkets,1249,64,Food & Beverage
+William Berkley,$2.5 B,United States,insurance,1249,74,Finance & Investments
+Jim Breyer,$2.5 B,United States,venture capital,1249,59,Technology
+Leon G. Cooperman,$2.5 B,United States,hedge funds,1249,77,Finance & Investments
+Gerald Ford,$2.5 B,United States,banking,1249,76,Finance & Investments
+Phillip Frost,$2.5 B,United States,pharmaceuticals,1249,84,Healthcare
+"Jeremy Jacobs, Sr. & family",$2.5 B,United States,food service,1249,81,Service
+Mark & Robyn Jones,$2.5 B,United States,insurance,1249,N/A,Finance & Investments
+Matthew Prince,$2.5 B,United States,cybersecurity,1249,46,Technology
+John Pritzker,$2.5 B,United States,"hotels, investments",1249,67,Finance & Investments
+Rodney Sacks,$2.5 B,United States,energy drinks,1249,71,Food & Beverage
+Kavitark Ram Shriram,$2.5 B,United States,"venture capital, Google",1249,64,Technology
+Daniel Sundheim,$2.5 B,United States,hedge funds,1249,44,Finance & Investments
+Todd Christopher,$2.4 B,United States,hair care products,1299,58,Fashion & Retail
+Chetan Dube,$2.4 B,United States,technology,1299,55,Technology
+Stephen Feinberg,$2.4 B,United States,private equity,1299,61,Finance & Investments
+Donald Horton,$2.4 B,United States,homebuilding,1299,71,Real Estate
+Gail Miller,$2.4 B,United States,car dealerships,1299,77,Automotive
+Austin Russell,$2.4 B,United States,★,1299,26,Automotive
+Alice Schwartz,$2.4 B,United States,biotech,1299,94,Healthcare
+William Stone,$2.4 B,United States,software,1299,65,Technology
+Donald Trump,$2.4 B,United States,real estate,1299,74,Real Estate
+John Tyson,$2.4 B,United States,food processing,1299,67,Food & Beverage
+Bill Alfond,$2.3 B,United States,shoes,1362,72,Fashion & Retail
+Susan Alfond,$2.3 B,United States,shoes,1362,75,Fashion & Retail
+Ted Alfond,$2.3 B,United States,shoes,1362,76,Fashion & Retail
+Jim Coulter,$2.3 B,United States,private equity,1362,61,Finance & Investments
+"Edward DeBartolo, Jr.",$2.3 B,United States,shopping centers,1362,74,Real Estate
+Noam Gottesman,$2.3 B,United States,hedge funds,1362,59,Finance & Investments
+Joseph Grendys,$2.3 B,United States,poultry processing,1362,59,Food & Beverage
+Stewart Horejsi & family,$2.3 B,United States,Berkshire Hathaway,1362,83,Finance & Investments
+Jared Isaacman,$2.3 B,United States,payment processing,1362,38,Technology
+Boris Jordan,$2.3 B,United States,cannabis,1362,54,Manufacturing
+Jim Kavanaugh,$2.3 B,United States,IT provider,1362,58,Technology
+Clayton Mathile,$2.3 B,United States,pet food,1362,80,Food & Beverage
+Andrew Paradise,$2.3 B,United States,★,1362,38,Media & Entertainment
+Stewart Rahr,$2.3 B,United States,drug distribution,1362,75,Healthcare
+Michael Saylor,$2.3 B,United States,cryptocurrency,1362,56,Technology
+Ted Turner,$2.3 B,United States,cable television,1362,82,Media & Entertainment
+Elaine Wynn,$2.3 B,United States,"casinos, hotels",1362,78,Gambling & Casinos
+Jerry Yang,$2.3 B,United States,Yahoo,1362,52,Technology
+Bill Austin,$2.2 B,United States,hearing aids,1444,79,Manufacturing
+Richard Barton,$2.2 B,United States,Zillow,1444,53,Real Estate
+Edward Bass,$2.2 B,United States,"oil, investments",1444,75,Energy
+"Frank Fertitta, III.",$2.2 B,United States,"casinos, mixed martial arts",1444,59,Sports
+Lorenzo Fertitta,$2.2 B,United States,"casinos, mixed martial arts",1444,52,Sports
+Jeffrey Gundlach,$2.2 B,United States,investments,1444,62,Finance & Investments
+Randal J. Kirk,$2.2 B,United States,pharmaceuticals,1444,67,Healthcare
+Leo Koguan,$2.2 B,United States,IT provider,1444,66,Technology
+Jeff Lawson,$2.2 B,United States,software,1444,43,Technology
+Max Levchin,$2.2 B,United States,fintech,1444,45,Finance & Investments
+Bob Parsons,$2.2 B,United States,web hosting,1444,70,Technology
+Phillip T. (Terry) Ragon,$2.2 B,United States,health IT,1444,71,Technology
+Vlad Shmunis,$2.2 B,United States,cloud technology,1444,60,Technology
+Dean Solon,$2.2 B,United States,solar systems,1444,56,Energy
+Timothy Springer,$2.2 B,United States,biotech,1444,73,Healthcare
+David Walentas,$2.2 B,United States,real estate,1444,82,Real Estate
+George Bishop,$2.1 B,United States,oil & gas,1517,83,Energy
+Herb Chambers,$2.1 B,United States,car dealerships,1517,79,Automotive
+Andrew & Peggy Cherng,$2.1 B,United States,restaurants,1517,N/A,Food & Beverage
+Ray Davis,$2.1 B,United States,pipelines,1517,79,Energy
+William Fisher,$2.1 B,United States,Gap,1517,64,Fashion & Retail
+Gordon Getty,$2.1 B,United States,Getty Oil,1517,87,Energy
+Alexander Karp,$2.1 B,United States,software firm,1517,53,Technology
+Bruce Karsh,$2.1 B,United States,private equity,1517,65,Finance & Investments
+Philippe Laffont,$2.1 B,United States,hedge fund,1517,53,Finance & Investments
+Henry Laufer,$2.1 B,United States,hedge funds,1517,75,Finance & Investments
+Frank Laukien,$2.1 B,United States,scientific equipment,1517,61,Manufacturing
+Daniel Lubetzky,$2.1 B,United States,snack bars,1517,52,Food & Beverage
+Howard Marks,$2.1 B,United States,private equity,1517,74,Finance & Investments
+Vincent McMahon,$2.1 B,United States,entertainment,1517,75,Sports
+David Murdock,$2.1 B,United States,"Dole, real estate",1517,97,Food & Beverage
+Roger Penske,$2.1 B,United States,cars,1517,84,Automotive
+Phil Ruffin,$2.1 B,United States,"casinos, real estate",1517,86,Diversified
+Richard Sands,$2.1 B,United States,liquor,1517,70,Food & Beverage
+Robert Sands,$2.1 B,United States,liquor,1517,62,Food & Beverage
+Jeffrey Talpins,$2.1 B,United States,hedge fund,1517,46,Finance & Investments
+Michael Xie,$2.1 B,United States,cybersecurity,1517,52,Technology
+S. Daniel Abraham,$2 B,United States,Slim-Fast,1580,96,Food & Beverage
+George Argyros & family,$2 B,United States,"real estate, investments",1580,84,Real Estate
+J. Hyatt Brown,$2 B,United States,insurance,1580,83,Finance & Investments
+Glenn Dubin,$2 B,United States,hedge funds,1580,63,Finance & Investments
+Andy Fang,$2 B,United States,food delivery app,1580,28,Technology
+Kenneth Feld & family,$2 B,United States,live entertainment,1580,72,Media & Entertainment
+Jeffery Hildebrand,$2 B,United States,oil,1580,62,Energy
+J. Tomilson Hill,$2 B,United States,investments,1580,72,Finance & Investments
+Orion Hindawi,$2 B,United States,software,1580,41,Technology
+Reid Hoffman,$2 B,United States,LinkedIn,1580,53,Technology
+W. Herbert Hunt,$2 B,United States,oil,1580,92,Energy
+George Joseph,$2 B,United States,insurance,1580,99,Finance & Investments
+Thomas Lee,$2 B,United States,private equity,1580,77,Finance & Investments
+Jeffrey Lorberbaum,$2 B,United States,flooring,1580,66,Manufacturing
+Jed McCaleb,$2 B,United States,cryptocurrency,1580,46,Finance & Investments
+Craig McCaw,$2 B,United States,telecom,1580,71,Telecom
+Charles Munger,$2 B,United States,Berkshire Hathaway,1580,97,Finance & Investments
+Jonathan Nelson,$2 B,United States,private equity,1580,64,Finance & Investments
+Kevin Plank,$2 B,United States,Under Armour,1580,48,Fashion & Retail
+Jennifer Pritzker,$2 B,United States,"hotels, investments",1580,70,Finance & Investments
+Linda Pritzker,$2 B,United States,"hotels, investments",1580,67,Service
+"Joe Rogers, Jr.",$2 B,United States,Waffle House,1580,N/A,Food & Beverage
+Stanley Tang,$2 B,United States,food delivery app,1580,28,Technology
+Amy Wyss,$2 B,United States,medical equipment,1580,50,Healthcare
+William Young,$2 B,United States,plastics,1580,80,Manufacturing
+Noubar Afeyan,$1.9 B,United States,biotech,1664,58,Healthcare
+Felix Baker,$1.9 B,United States,biotech investing,1664,52,Finance & Investments
+Julian Baker,$1.9 B,United States,investing,1664,54,Finance & Investments
+Lee Bass,$1.9 B,United States,"oil, investments",1664,64,Energy
+Thierry Cruanes,$1.9 B,United States,software,1664,53,Technology
+Benoit Dageville,$1.9 B,United States,software,1664,54,Technology
+James Dinan,$1.9 B,United States,hedge funds,1664,61,Finance & Investments
+Fred Ehrsam,$1.9 B,United States,cryptocurrency exchange,1664,32,Finance & Investments
+Robert Fisher,$1.9 B,United States,Gap,1664,67,Fashion & Retail
+"William Foley, II.",$1.9 B,United States,★,1664,76,Finance & Investments
+Bill Haslam,$1.9 B,United States,gas stations,1664,62,Fashion & Retail
+Stanley Hubbard,$1.9 B,United States,DirecTV,1664,87,Media & Entertainment
+Hamilton James,$1.9 B,United States,investments,1664,69,Finance & Investments
+Michael Kim,$1.9 B,United States,private equity,1664,57,Finance & Investments
+Alexis Lê-Quôc,$1.9 B,United States,cloud computing,1664,46,Technology
+Larry Robbins,$1.9 B,United States,hedge funds,1664,51,Finance & Investments
+Brian Roberts,$1.9 B,United States,Comcast,1664,61,Media & Entertainment
+Evgeny (Eugene) Shvidler,$1.9 B,United States,"oil & gas, investments",1664,57,Energy
+Frank Slootman,$1.9 B,United States,software,1664,62,Technology
+Kevin Systrom,$1.9 B,United States,Instagram,1664,37,Technology
+Patrizio Vinciarelli,$1.9 B,United States,electronic components,1664,74,Technology
+Todd Wagner,$1.9 B,United States,online media,1664,60,Media & Entertainment
+Stephen Winn,$1.9 B,United States,real estate services,1664,74,Real Estate
+Anita Zucker,$1.9 B,United States,chemicals,1664,69,Manufacturing
+Leslie Alexander,$1.8 B,United States,sports team,1750,77,Sports
+O. Francis Biondi,$1.8 B,United States,hedge funds,1750,56,Finance & Investments
+David Booth,$1.8 B,United States,mutual funds,1750,75,Finance & Investments
+Yvon Chouinard,$1.8 B,United States,Patagonia,1750,82,Fashion & Retail
+Jamie Dimon,$1.8 B,United States,banking,1750,65,Finance & Investments
+Robert Duggan,$1.8 B,United States,pharmaceuticals,1750,76,Healthcare
+James France,$1.8 B,United States,"Nascar, racing",1750,76,Sports
+Mario Gabelli,$1.8 B,United States,money management,1750,79,Finance & Investments
+Brian Higgins,$1.8 B,United States,hedge funds,1750,56,Finance & Investments
+David Hindawi,$1.8 B,United States,software,1750,76,Technology
+Drew Houston,$1.8 B,United States,cloud storage service,1750,38,Technology
+Thomas James,$1.8 B,United States,finance,1750,78,Finance & Investments
+Willis Johnson,$1.8 B,United States,damaged cars,1750,73,Automotive
+Marc Lasry,$1.8 B,United States,hedge funds,1750,60,Finance & Investments
+John Oyler,$1.8 B,United States,biotech,1750,53,Healthcare
+Tor Peterson,$1.8 B,United States,commodities,1750,56,Metals & Mining
+Glenn Sanford,$1.8 B,United States,real estate brokerage,1750,54,Real Estate
+Leonard Schleifer,$1.8 B,United States,pharmaceuticals,1750,68,Healthcare
+Henry Swieca,$1.8 B,United States,hedge funds,1750,63,Finance & Investments
+Kanye West,$1.8 B,United States,"music, sneakers",1750,43,Fashion & Retail
+Marc Andreessen,$1.7 B,United States,venture capital investing,1833,49,Finance & Investments
+Nicolas Berggruen,$1.7 B,United States,investments,1833,59,Finance & Investments
+Peter Buck,$1.7 B,United States,Subway sandwich shops,1833,90,Food & Beverage
+Alexandra Daitch,$1.7 B,United States,Cargill,1833,58,Food & Beverage
+Henry Engelhardt,$1.7 B,United States,insurance,1833,63,Finance & Investments
+Paul Foster,$1.7 B,United States,oil refining,1833,63,Energy
+Robert Friedland,$1.7 B,United States,mining,1833,70,Metals & Mining
+Christopher Goldsbury,$1.7 B,United States,salsa,1833,78,Food & Beverage
+Patrick Hanrahan,$1.7 B,United States,software,1833,65,Technology
+Edward Lampert,$1.7 B,United States,Sears,1833,58,Finance & Investments
+Jimmy John Liautaud,$1.7 B,United States,sandwich chain,1833,57,Food & Beverage
+David Lichtenstein,$1.7 B,United States,real estate,1833,59,Real Estate
+Sarah MacMillan,$1.7 B,United States,Cargill,1833,67,Food & Beverage
+Todd McKinnon,$1.7 B,United States,software,1833,49,Technology
+Gary Michelson,$1.7 B,United States,medical patents,1833,72,Healthcare
+Jorge Perez,$1.7 B,United States,real estate,1833,71,Real Estate
+Nicholas Pritzker,$1.7 B,United States,"hotels, investments",1833,77,Finance & Investments
+Jerry Reinsdorf,$1.7 B,United States,sports teams,1833,85,Sports
+Sheryl Sandberg,$1.7 B,United States,Facebook,1833,51,Technology
+Andres Santo Domingo,$1.7 B,United States,beer,1833,42,Food & Beverage
+Lucy Stitzer,$1.7 B,United States,Cargill,1833,61,Food & Beverage
+Charlotte Colket Weber,$1.7 B,United States,Campbell Soup,1833,78,Food & Beverage
+William Boyd,$1.6 B,United States,"casinos, banking",1931,89,Gambling & Casinos
+Henrik Fisker,$1.6 B,United States,★,1931,57,Automotive
+Donald Foss,$1.6 B,United States,auto loans,1931,76,Automotive
+"B. Wayne Hughes, Jr.",$1.6 B,United States,storage facilities,1931,60,Real Estate
+Michael Jordan,$1.6 B,United States,"Charlotte Hornets, endorsements",1931,58,Sports
+William Koch,$1.6 B,United States,"oil, investments",1931,80,Energy
+Robert Langer,$1.6 B,United States,biotech,1931,72,Healthcare
+Catherine Lozick,$1.6 B,United States,valve manufacturing,1931,75,Manufacturing
+Gary Magness,$1.6 B,United States,"cable TV, investments",1931,67,Media & Entertainment
+David Paul,$1.6 B,United States,medical devices,1931,54,Healthcare
+Nelson Peltz,$1.6 B,United States,investments,1931,78,Finance & Investments
+Shen Hua & family,$1.6 B,United States,semiconductors,1931,58,Technology
+Barry Silbert,$1.6 B,United States,cryptocurrency,1931,44,Finance & Investments
+Peter Sperling,$1.6 B,United States,education,1931,61,Service
+David Zalik,$1.6 B,United States,financial technology,1931,47,Technology
+"Herbert Allen, Jr. & family",$1.5 B,United States,investment banking,2035,81,Finance & Investments
+Ron Burkle,$1.5 B,United States,"supermarkets, investments",2035,68,Finance & Investments
+Steve Case,$1.5 B,United States,AOL,2035,62,Technology
+Safra Catz,$1.5 B,United States,software,2035,59,Technology
+Bharat Desai,$1.5 B,United States,IT consulting,2035,68,Technology
+Tim Draper,$1.5 B,United States,cryptocurrency,2035,62,Finance & Investments
+John Farber,$1.5 B,United States,chemicals,2035,95,Manufacturing
+John Foley,$1.5 B,United States,Peloton,2035,49,Technology
+Alan Gerry,$1.5 B,United States,cable television,2035,92,Media & Entertainment
+Bill Gross,$1.5 B,United States,investments,2035,76,Finance & Investments
+Sue Gross,$1.5 B,United States,investments,2035,71,Finance & Investments
+Seth Klarman,$1.5 B,United States,investments,2035,63,Finance & Investments
+Gary Lauder,$1.5 B,United States,Estée Lauder,2035,58,Fashion & Retail
+James Leininger,$1.5 B,United States,medical products,2035,76,Healthcare
+Liu Xiucai & family,$1.5 B,United States,chemicals,2035,64,Manufacturing
+Duncan MacMillan,$1.5 B,United States,Bloomberg LP,2035,83,Finance & Investments
+George Marcus,$1.5 B,United States,real estate,2035,79,Real Estate
+Billy Joe (Red) McCombs,$1.5 B,United States,"real estate, oil, cars, sports",2035,93,Diversified
+Jerry Moyes,$1.5 B,United States,transportation,2035,77,Logistics
+Mark Pincus,$1.5 B,United States,online games,2035,55,Technology
+Michael Polsky,$1.5 B,United States,Electric power,2035,72,Energy
+Matthew Roszak,$1.5 B,United States,cryptocurrency,2035,48,Finance & Investments
+Fayez Sarofim,$1.5 B,United States,money management,2035,92,Finance & Investments
+Ryan Smith,$1.5 B,United States,cloud computing,2035,42,Technology
+August Troendle,$1.5 B,United States,pharmaceutical services,2035,65,Healthcare
+Kenny Troutt,$1.5 B,United States,telecom,2035,73,Telecom
+Clifford Asness,$1.4 B,United States,money management,2141,54,Finance & Investments
+Louis Bacon,$1.4 B,United States,hedge funds,2141,64,Finance & Investments
+Jim Crane,$1.4 B,United States,"logistics, baseball",2141,67,Sports
+Darwin Deason,$1.4 B,United States,software,2141,80,Service
+James Duff,$1.4 B,United States,"tires, diversified",2141,60,Diversified
+Thomas Duff,$1.4 B,United States,"tires, diversified",2141,64,Diversified
+Keith Dunleavy & family,$1.4 B,United States,health IT,2141,51,Healthcare
+Lloyd Frink,$1.4 B,United States,Zillow,2141,56,Real Estate
+Mimi Haas,$1.4 B,United States,Levi's jeans,2141,74,Fashion & Retail
+Richard Hayne,$1.4 B,United States,Urban Outfitters,2141,73,Fashion & Retail
+Timothy Headington,$1.4 B,United States,"oil & gas, investments",2141,70,Energy
+Daniel Hirschfeld,$1.4 B,United States,fashion retail,2141,79,Fashion & Retail
+Jay-Z,$1.4 B,United States,Multiple,2141,51,Media & Entertainment
+Scott Kapnick,$1.4 B,United States,private equity,2141,62,Finance & Investments
+Sidney Kimmel,$1.4 B,United States,retail,2141,93,Fashion & Retail
+Theodore Leonsis,$1.4 B,United States,sports teams,2141,65,Sports
+Trevor Milton,$1.4 B,United States,★,2141,39,Automotive
+John Ocampo,$1.4 B,United States,semiconductors,2141,62,Technology
+Jonathan Oringer,$1.4 B,United States,stock photos,2141,46,Technology
+Martin Selig,$1.4 B,United States,real estate,2141,83,Real Estate
+Edward Stack,$1.4 B,United States,Dick's Sporting Goods,2141,66,Fashion & Retail
+Thomas Steyer,$1.4 B,United States,hedge funds,2141,63,Finance & Investments
+Jim Thompson,$1.4 B,United States,logistics,2141,81,Logistics
+Jonathan Tisch,$1.4 B,United States,"insurance, NFL team",2141,67,Diversified
+Wilma Tisch,$1.4 B,United States,diversified,2141,93,Finance & Investments
+Jayshree Ullal,$1.4 B,United States,computer networking,2141,60,Technology
+"Alfred West, Jr.",$1.4 B,United States,money management,2141,78,Finance & Investments
+"Richard Yuengling, Jr.",$1.4 B,United States,beer,2141,78,Food & Beverage
+Chris Britt,$1.3 B,United States,fintech,2263,48,Finance & Investments
+Chuck Bundrant,$1.3 B,United States,fishing,2263,79,Food & Beverage
+Tim Cook,$1.3 B,United States,Apple,2263,60,Technology
+Egon Durban,$1.3 B,United States,private equity,2263,47,Finance & Investments
+Feng Chenhui,$1.3 B,United States,Electronics,2263,55,Technology
+John Goff,$1.3 B,United States,real estate,2263,66,Real Estate
+Kenneth Hao,$1.3 B,United States,private equity,2263,52,Finance & Investments
+Michael Krasny,$1.3 B,United States,retail,2263,67,Technology
+Alan Miller & family,$1.3 B,United States,healthcare services,2263,83,Healthcare
+Greg Mondre,$1.3 B,United States,private equity,2263,46,Finance & Investments
+Bob Muglia,$1.3 B,United States,software,2263,61,Technology
+Penny Sanford,$1.3 B,United States,real estate brokerage,2263,55,Real Estate
+Jared Smith,$1.3 B,United States,cloud computing,2263,46,Technology
+Tang Zhuang,$1.3 B,United States,electronics,2263,48,Technology
+Farris Wilks,$1.3 B,United States,natural gas,2263,69,Energy
+Whitney Wolfe Herd,$1.3 B,United States,dating app,2263,31,Technology
+Patrick Zalupski,$1.3 B,United States,homebuilding,2263,40,Real Estate
+Thomas Bailey,$1.2 B,United States,money management,2378,84,Finance & Investments
+Ronald Clarke,$1.2 B,United States,payments technology,2378,65,Technology
+Deng Hui & family,$1.2 B,United States,software,2378,58,Technology
+Carl DeSantis,$1.2 B,United States,energy drink,2378,81,Food & Beverage
+Wesley Edens,$1.2 B,United States,investments,2378,59,Finance & Investments
+J. Christopher Flowers,$1.2 B,United States,investments,2378,63,Finance & Investments
+Lawrence Golub,$1.2 B,United States,private equity,2378,61,Finance & Investments
+Ryan Graves,$1.2 B,United States,uber,2378,37,Technology
+Joe Lacob,$1.2 B,United States,Golden State Warriors,2378,65,Sports
+Frederic Luddy,$1.2 B,United States,software,2378,66,Technology
+Jorge Mas,$1.2 B,United States,Construction,2378,58,Construction & Engineering
+Eren Ozmen,$1.2 B,United States,aerospace,2378,62,Manufacturing
+Fatih Ozmen,$1.2 B,United States,aerospace,2378,63,Manufacturing
+Chamath Palihapitiya,$1.2 B,United States,★,2378,44,Finance & Investments
+Michael Price,$1.2 B,United States,investments,2378,68,Finance & Investments
+Duke Reyes,$1.2 B,United States,beer distribution,2378,64,Food & Beverage
+Chris Sacca,$1.2 B,United States,venture capital investing,2378,45,Finance & Investments
+James Scapa,$1.2 B,United States,software,2378,64,Technology
+Mike Speiser,$1.2 B,United States,software,2378,50,Technology
+Michael Steinhardt,$1.2 B,United States,hedge funds,2378,80,Finance & Investments
+Laurie Tisch,$1.2 B,United States,"insurance, NFL team",2378,70,Diversified
+Steven Tisch,$1.2 B,United States,insurance,2378,72,Diversified
+Robert Toll,$1.2 B,United States,home building,2378,80,Real Estate
+Thomas Tull,$1.2 B,United States,"movies, investments",2378,50,Media & Entertainment
+John Bicket,$1.1 B,United States,sensor systems,2524,41,Technology
+Sanjit Biswas,$1.1 B,United States,sensor systems,2524,39,Technology
+Lloyd Blankfein,$1.1 B,United States,banking,2524,66,Finance & Investments
+Ron Corio,$1.1 B,United States,solar,2524,59,Energy
+Weili Dai,$1.1 B,United States,semiconductors,2524,59,Technology
+Henry Davis,$1.1 B,United States,beef processing,2524,70,Food & Beverage
+Paul Fireman,$1.1 B,United States,Reebok,2524,77,Fashion & Retail
+Donald Friese,$1.1 B,United States,manufacturing,2524,80,Manufacturing
+Anne Gittinger,$1.1 B,United States,Nordstrom department stores,2524,85,Fashion & Retail
+David Golub,$1.1 B,United States,private equity,2524,58,Finance & Investments
+Ming Hsieh,$1.1 B,United States,Fulgent Genetics,2524,65,Healthcare
+Mitchell Jacobson,$1.1 B,United States,industrial equipment,2524,70,Service
+Richard Kayne,$1.1 B,United States,investments,2524,75,Finance & Investments
+Nancy Lerner,$1.1 B,United States,"banking, credit cards",2524,60,Finance & Investments
+Norma Lerner,$1.1 B,United States,banking,2524,85,Finance & Investments
+Randolph Lerner,$1.1 B,United States,"banking, credit cards",2524,59,Finance & Investments
+Lou Boliang & family,$1.1 B,United States,pharmaceuticals,2524,57,Healthcare
+"Cargill MacMillan, III.",$1.1 B,United States,Cargill,2524,61,Food & Beverage
+John MacMillan,$1.1 B,United States,Cargill,2524,71,Food & Beverage
+Martha MacMillan,$1.1 B,United States,Cargill,2524,69,Food & Beverage
+William MacMillan,$1.1 B,United States,Cargill,2524,66,Food & Beverage
+John Martin,$1.1 B,United States,pharmaceuticals,2524,69,Healthcare
+John McConnell & family,$1.1 B,United States,steel,2524,67,Manufacturing
+Bruce Nordstrom,$1.1 B,United States,Nordstrom department stores,2524,87,Fashion & Retail
+Forrest Preston,$1.1 B,United States,health care,2524,88,Healthcare
+Jack Schuler,$1.1 B,United States,pharmaceuticals,2524,80,Healthcare
+Neerja Sethi,$1.1 B,United States,"IT consulting, outsourcing",2524,66,Technology
+Michael S. Smith,$1.1 B,United States,liquefied natural gas,2524,65,Energy
+Sehat Sutardja,$1.1 B,United States,semiconductors,2524,59,Technology
+Carl Thoma,$1.1 B,United States,investments,2524,72,Finance & Investments
+Dan Wilks,$1.1 B,United States,natural gas,2524,64,Energy
+George Yancopoulos,$1.1 B,United States,pharmaceuticals,2524,61,Healthcare
+Zhong Peifeng,$1.1 B,United States,semiconductor,2524,58,Telecom
+A. Jayson Adair,$1 B,United States,damaged cars,2674,51,Automotive
+Baiju Bhatt,$1 B,United States,stock trading app,2674,36,Finance & Investments
+"Wilbur 'Ed' Bosarge, Jr.",$1 B,United States,high speed trading,2674,81,Finance & Investments
+GT Dave,$1 B,United States,kombucha,2674,44,Food & Beverage
+Larry Fink,$1 B,United States,money management,2674,68,Finance & Investments
+Kim Kardashian West,$1 B,United States,"cosmetics, reality TV",2674,40,Fashion & Retail
+David Katzman,$1 B,United States,teeth aligners,2674,61,Service
+Bom Kim,$1 B,United States,online retailing,2674,42,Technology
+George Pedersen,$1 B,United States,defense contractor,2674,85,Manufacturing
+Tyler Perry,$1 B,United States,"movies, television",2674,51,Media & Entertainment
+Hartley Rogers,$1 B,United States,asset management,2674,61,Finance & Investments
+Scott Smith,$1 B,United States,cloud computing,2674,71,Technology
+Axel Stawski,$1 B,United States,real estate,2674,70,Real Estate
+Vlad Tenev,$1 B,United States,stock trading,2674,34,Finance & Investments
+Vlad Vendrow & family,$1 B,United States,software,2674,53,Technology
+J. Wayne Weaver,$1 B,United States,Shoes,2674,85,Diversified
+Sandy Weill,$1 B,United States,Citigroup,2674,88,Finance & Investments
+Yu De-Chao,$1 B,United States,pharmaceuticals,2674,57,Healthcare
