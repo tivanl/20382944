@@ -107,11 +107,38 @@ Question three is the texevier question. I will start by reading in the data usi
 tweet_data <- read_all_rds(folder = "data/Tweets/")
 ```
 
-Now that I have the data loaded in, I can start to wrangle it a bit keeping in mind that we want to compare the media usage of each outlet
+Now that I have the data loaded in, I can start to wrangle it a bit keeping in mind that we want to compare the media usage of each outlet. I am struggling a lot with the date column. I've spent a lot of time on it by now. 
 ```{r}
-tweet_data %>% mutate(username = ifelse("theeconomist", "The Economist", ifelse("cnnbrk", "CNN", "BBC"))) %>% select(c(date, username, video, picture)) %>% 
-    gsub("^.{0,1}", "", NetWorth)
-    summarise(across(c(ladder, ends_with("whisker")),
-    list(median), .names = "{col}") )
+tweet_data_clean <- tweet_data %>% select(c(date, name, video, photos)) %>% mutate(photos = ifelse(length(photos) > 2, 0, 1)) %>% mutate(date = gsub("-", "/", date)) %>% mutate(date = lubridate::as_date(date)) %>% mutate(date_month = paste0(lubridate::month(date), lubridate::year(date))) 
+media_g <- tweet_data_clean %>% group_by(date_month, name) %>% 
+    summarise(media_percentage = (sum(video)+sum(photos)/nrow(tweet_data_clean))) %>% ungroup() %>% 
+    ggplot() +
+    geom_histogram(aes(x = date_month, y = media_percentage, fill = name), stat = "identity") +
+    labs(title = "Frequency of media use over time per agency", subtitle = "Frequency by which news agencies posted media along with their tweets over time", x = "Time") +
+    guides(colour = F) +
+    facet_wrap(~name) +
+    theme_economist() 
+
+media_g
+
+
+```
+The above graph should be percentages, which would make it much neater.
+
+The next part of Question 3 requires a comparison of how many hashtags each agency used in their tweets
+```{r}
+
+hash_data <- tweet_data %>% select(c(date, name, hashtags)) %>% mutate(date = gsub("-", "/", date)) %>% mutate(date = lubridate::as_date(date)) %>% mutate(date_year = lubridate::year(date)) %>% 
+    group_by(date_year, name) %>% summarise(amount_hash = length(unique(hashtags))) %>% ungroup()
+
+g_hash <- hash_data %>% 
+    ggplot() +
+    geom_line(aes(x = date_year, y = amount_hash, colour = name), alpha = 0.8, size = 2) +
+    facet_wrap(~name, scales = "free_y") +
+    labs(title= "The rise and fall of hashtags", subtitle = "The frequency of hashtags by news agency over time", x = "", y = "Hashtag Frequency") +
+    guides(color = F) +
+    theme_economist()
+g_hash
 ```
 
+My time ran out. I would have liked to finish, wraped more of my code into functions and tidy up. 
