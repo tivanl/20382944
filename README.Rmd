@@ -76,8 +76,42 @@ SA <- forbes_clean %>% filter(Country == "South Africa")
 #Graphing the data here. I am thinking of using points
 SA %>% 
     ggplot() +
-    geom_point(aes(x = Rank, y = NetWorth, size = Age, color = Name)) +
-    geom_text(aes(x = Rank, y = NetWorth, label = Name))
+    geom_point(aes(x = Age, y = NetWorth, color = Name), size = 5) +
+    geom_text(aes(x = Age, y = NetWorth, label = Name)) +
+    labs(title = "South Africans in th Forbes List", subtitle = "A graph of net worth by age", x = "", y = "Net Worth") +
+    theme_economist() +
+    guides(color = F)
 
+```
+
+The second graph I want to draw for question two is the top 20 richest people on the Forbes list.
+```{r}
+top_20_rich <- forbes_clean %>% mutate(top_20 = ifelse(Rank <= 20, 1, 0)) %>% filter(top_20 == 1)
+
+top_20_rich %>% 
+    ggplot() + 
+    geom_point(aes(x = fct_reorder(Name, Rank), y = Age, size = NetWorth, color = Industry)) +
+    geom_text(aes(x = fct_reorder(Name, Rank), y = Age, label = Source)) +
+    labs(title = "20 richest People on Earth", subtitle = "The world's richest arranged by net worth and age", x = "", caption = "Forbes") +
+    theme_economist() +
+    theme(axis.text.x=element_text(angle = 90, hjust = 1)) +
+    guides(size = F)
+    
+
+```
+
+# Question 3
+
+Question three is the texevier question. I will start by reading in the data using a function that I created.
+```{r}
+tweet_data <- read_all_rds(folder = "data/Tweets/")
+```
+
+Now that I have the data loaded in, I can start to wrangle it a bit keeping in mind that we want to compare the media usage of each outlet
+```{r}
+tweet_data %>% mutate(username = ifelse("theeconomist", "The Economist", ifelse("cnnbrk", "CNN", "BBC"))) %>% select(c(date, username, video, picture)) %>% 
+    gsub("^.{0,1}", "", NetWorth)
+    summarise(across(c(ladder, ends_with("whisker")),
+    list(median), .names = "{col}") )
 ```
 
