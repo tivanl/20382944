@@ -1,0 +1,26 @@
+---
+title: "Movie Facts"
+output: html_document
+---
+Dear Sally
+
+You are so wrong. Please allow me to demonstrate using some graphs why the statements you make are wrong.
+
+Firstly, your claim that a movie that has a rating of higher than 80% on Rotten Tomatoes will have an audience score of above 85% is put to the test in the graph below.
+```{r warning=FALSE,  echo=FALSE}
+
+if(!require(tidyverse)){library(tidyverse)} 
+movie_data <- read_csv("data/Movies/Movies.csv")
+# Wrangle the data so that its easier to use
+rt_plot_data <- movie_data %>% rename(RT = "Rotten Tomatoes %") %>% rename(AR = "Audience  score %") %>% 
+    select(c(Film, RT, AR)) %>% mutate(big_RT = ifelse(RT >= 80, 1, 0))
+
+# Now we plot the data
+rt_plot_data %>% 
+    ggplot() +
+    geom_histogram(aes(x = fct_reorder(Film, AR), y = AR, fill = big_RT), stat = "identity") +
+    geom_hline(aes(yintercept = 85), color = "darkred", alpha = 0.6) +
+    labs(title = "Audience Score by Film", subtitle = "Audience score per film differentiated by whether Rotten Tomatoes rated greater than 80%" ,x = "", y = "Audience Score")
+```
+
+As we can see there were very little movies that fell into the category you described.

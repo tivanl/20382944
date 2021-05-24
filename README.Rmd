@@ -1,0 +1,81 @@
+---
+title: "README"
+output: html_document
+---
+ # Purpose
+ 
+ The purpose of this README is to document my thinking during the Data Science practical assesment. 
+ 
+ First I would like to clear my environment and load my packages.
+```{r}
+rm(list = ls())
+gc()
+library(tidyverse)
+library(ggthemes)
+source(file = "code/read_all_rows.R")
+```
+ 
+ # Question 1
+ 
+First, I read in the data that I'll be using for this question.
+```{r}
+movie_data <- read_csv("data/Movies/Movies.csv")
+```
+ 
+ Then for the first bullet we want to test whether a movie with a >80% rating from Rotten Tomatoes always has an audience rating of above 85%.
+```{r }
+# Wrangle the data so that its easier to use
+rt_plot_data <- movie_data %>% rename(RT = "Rotten Tomatoes %") %>% rename(AR = "Audience  score %") %>% 
+    select(c(Film, RT, AR)) %>% mutate(big_RT = ifelse(RT >= 80, 1, 0))
+
+# Now we plot the data
+rt_plot_data %>% 
+    ggplot() +
+    geom_histogram(aes(x = fct_reorder(Film, AR), y = AR, fill = big_RT), stat = "identity") +
+    geom_hline(aes(yintercept = 85), color = "darkred", alpha = 0.6) +
+    labs(title = "Audience Score by Film", subtitle = "Audience score per film differentiated by whether Rotten Tomatoes rated greater than 80%" ,x = "", y = "Audience Score")
+
+```
+ 
+As we can see there were a few movies 
+ 
+For the second part of question 1 we will compare the profits of Disney films to other studios.
+```{r}
+# Again, we wrangle the data into a more useable format
+dis_data <- movie_data %>% select(c(Film, "Lead Studio", Profitability)) %>% 
+    rename(LS = "Lead Studio") %>% mutate(Disney = ifelse(LS == "Disney", 1, 0))
+
+# Then we graph the data
+dis_data %>% 
+    ggplot() +
+    geom_histogram(aes(x = fct_reorder(Film, Profitability), y = Profitability, fill = Disney), stat = "identity") +
+    labs(x = "", y = "Profitability", title = "Relative Profitability of Disney Films")
+```
+
+ Disney has the second most profitable film but it by no means dominates the field in terms of profitability.
+ 
+ The third part of the question (time is up for this for now)
+```{r}
+
+```
+ 
+# Question 2
+
+I have made a function that reads in the csv files and binds them by row.
+```{r}
+forbes_data <- read_all_rows(folder = "data/Forbes/")
+```
+
+After reading in the data, I see that the Net Worth column contains both numbers and letters. I would like to use only numerics.
+```{r}
+# First rangle the data, specifically cleaning the NetWorth column
+forbes_clean <- forbes_data %>% mutate(NetWorth = gsub(" B", "", NetWorth)) %>% 
+    mutate(NetWorth = as.numeric(gsub("^.{0,1}", "", NetWorth)))  
+
+#Graphing the data here. I am thinking of using points
+forbes_clean %>% 
+    ggplot() +
+    geom_point(aes(x = fct_reorder(Name, NetWorth), y = NetWorth, fill = Country))
+
+```
+
