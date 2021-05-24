@@ -71,11 +71,13 @@ After reading in the data, I see that the Net Worth column contains both numbers
 # First rangle the data, specifically cleaning the NetWorth column
 forbes_clean <- forbes_data %>% mutate(NetWorth = gsub(" B", "", NetWorth)) %>% 
     mutate(NetWorth = as.numeric(gsub("^.{0,1}", "", NetWorth)))  
-
+# make a dataframe for SA
+SA <- forbes_clean %>% filter(Country == "South Africa")
 #Graphing the data here. I am thinking of using points
-forbes_clean %>% 
+SA %>% 
     ggplot() +
-    geom_point(aes(x = fct_reorder(Name, NetWorth), y = NetWorth, fill = Country))
+    geom_point(aes(x = Rank, y = NetWorth, size = Age, color = Name)) +
+    geom_text(aes(x = Rank, y = NetWorth, label = Name))
 
 ```
 
